@@ -178,7 +178,7 @@ def handle_navigation(call):
         selected_date = datetime.strptime(date_str, '%d.%m.%Y').date()
 
         # Retrieve reports for the selected date and user
-        reports = Report.objects.filter(date=selected_date, user=user).order_by('default_value', 'machine_num')
+        reports = Report.objects.filter(date=selected_date).order_by('default_value', 'machine_num')
 
         if reports.exists():
             # Generate Excel file and save it to a temporary location
