@@ -19,8 +19,8 @@ class MaterialAdmin(admin.ModelAdmin):
 
 @admin.register(Report)
 class ReportAdmin(admin.ModelAdmin):
-    list_display = ('product', 'quantity')
-    ordering = ('date',)
+    list_display = ('machine_num','product', 'termoplast_measure', 'waste_measure', 'defect_measure','material', 'quantity', 'default_value')
+    ordering = ('date','default_value')
 
 
 @admin.register(TgUser)

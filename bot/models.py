@@ -50,7 +50,7 @@ class Report(models.Model):
         ("Kun", "Kun"),
         ("Tun", "Tun"),
     ]
-    machine_num = models.IntegerField(verbose_name='aparat', max_length=2, null=True, blank=True)
+    machine_num = models.IntegerField(verbose_name='aparat', null=True, blank=True)
     date = models.DateField()
     default_value = models.CharField(
         max_length=3, choices=CHOICES, default="Kun", blank=True, null=True)

@@ -13,7 +13,9 @@ from ..models import TgUser, Product, Material, Report
 from ..services.steps import USER_STEP
 from django.db.models import Q
 from bot.buttons.inline import create_confirmation_keyboard
-
+import openpyxl
+from openpyxl.utils import get_column_letter
+from io import BytesIO
 import threading
 import time
 
@@ -167,3 +169,32 @@ def add_quantity(message, bot):
     else:
         threading.Thread(target=send_and_delete_message, args=(bot, message.chat.id, "son kiriting ❌", 2)).start()
     bot.delete_message(message.chat.id, message.id)
+    
+
+
+def create_excel_report(reports, file_path):
+    wb = openpyxl.Workbook()
+    ws = wb.active
+    ws.title = "Reports"
+
+    # Define the header
+    headers = ['machine_num', 'product', 'termoplast_measure', 'waste_measure', 'defect_measure', 'material', 'quantity', 'default_value']
+    ws.append(headers)
+
+    # Populate the sheet with data from the reports
+    for report in reports:
+        row = [
+            report.machine_num,
+            report.product.name if report.product else '',  # Assuming Product has a name field
+            report.termoplast_measure,
+            report.waste_measure,
+            report.defect_measure,
+            report.material.name if report.material else '',  # Assuming Material has a name field
+            report.quantity,
+            report.default_value
+        ]
+        ws.append(row)
+
+    # Save the workbook to the specified file path
+    wb.save(file_path)
+    wb.close()

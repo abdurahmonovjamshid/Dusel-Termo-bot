@@ -1,5 +1,6 @@
 USER_STEP = {
     "DEFAULT":0,
+    "REPORT": 100,
 
     # add report
     "ADD_DAY":1,

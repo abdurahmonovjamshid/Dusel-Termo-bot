@@ -38,3 +38,35 @@ with open(file_path, 'r', encoding='utf-8') as file:
             # Save the material object
             material.save()
 
+import random
+from datetime import timedelta, date
+from bot.models import Report, Product, Material, TgUser  # Adjust the import to your app structure
+
+# Helper function to generate random date
+def random_date(start_date, end_date):
+    return start_date + timedelta(days=random.randint(0, (end_date - start_date).days))
+
+# Parameters
+start_date = date(2024, 9, 13)
+end_date = date(2024, 9, 20)
+products = list(Product.objects.all())
+materials = list(Material.objects.all())
+users = list(TgUser.objects.all())
+
+# Randomly generate 100 Report objects
+for _ in range(100):
+    report = Report.objects.create(
+        machine_num=random.randint(1, 23),  # Random machine number between 1 and 99
+        date=random_date(start_date, end_date),
+        default_value=random.choice(["Kun", "Tun"]),
+        product=random.choice(products),
+        termoplast_measure=round(random.uniform(0.5, 10.0), 2),  # Random float between 0.5 and 10.0
+        defect_measure=round(random.uniform(0.0, 5.0), 2),  # Random float between 0.0 and 5.0
+        waste_measure=round(random.uniform(0.0, 3.0), 2),  # Random float between 0.0 and 3.0
+        material=random.choice(materials),
+        quantity=round(random.uniform(1.0, 100.0), 2),  # Random float between 1.0 and 100.0
+        is_confirmed=random.choice([True, False]),
+        user=random.choice(users)
+    )
+
+print("100 Reports created!")

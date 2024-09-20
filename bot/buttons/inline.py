@@ -18,8 +18,6 @@ def create_confirmation_keyboard(report_id):
     markup.add(InlineKeyboardButton(text="Tasdiqlash ✅", callback_data=f"confirm_{report_id}"), InlineKeyboardButton(text="Bekor qilish ❌", callback_data=f"cancel_{report_id}"))
     return markup
     
-
-# Function to create the inline keyboard
 def create_days_keyboard(year=None, month=None):
     # If no year or month is provided, use the current month and year
     if year is None or month is None:
@@ -206,4 +204,31 @@ def create_material_keyboard_for_product(product, page=0):
     # Add pagination buttons as the last row
     markup.add(*buttons)
     
+    return markup
+
+
+def create_days_info_kb(year=None, month=None):
+    if year is None or month is None:
+        today = datetime.now()
+        year = today.year
+        month = today.month
+    markup = types.InlineKeyboardMarkup(row_width=7)
+    month_name = datetime(year, month, 1).strftime('%B %Y')
+    title = types.InlineKeyboardButton(f"--- {month_name} ---", callback_data="ignore")
+    markup.add(title)
+    first_day = datetime(year, month, 1)
+    last_day = (first_day + timedelta(days=32)).replace(day=1) - timedelta(days=1)
+    buttons = [types.InlineKeyboardButton(
+        text=str(day),
+        callback_data=f"info_{day:02d}.{month:02d}.{year}"
+    ) for day in range(1, last_day.day + 1)]
+    markup.add(*buttons)
+    prev_month = (first_day - timedelta(days=1)).replace(day=1)
+    next_month = (last_day + timedelta(days=1)).replace(day=1)
+    navigation = [
+        types.InlineKeyboardButton("<", callback_data=f"infnav_{prev_month.year}_{prev_month.month}"),
+        types.InlineKeyboardButton("x", callback_data="ignore"),
+        types.InlineKeyboardButton(">", callback_data=f"infnav_{next_month.year}_{next_month.month}")
+    ]
+    markup.add(*navigation)
     return markup

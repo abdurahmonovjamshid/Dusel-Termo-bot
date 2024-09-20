@@ -4,6 +4,7 @@ from django.shortcuts import render
 
 import json
 import traceback
+from django.http import HttpResponse
 
 import requests
 import telebot
@@ -17,9 +18,9 @@ from django.utils import timezone
 from conf.settings import ADMINS, CHANNEL_ID, HOST, TELEGRAM_BOT_TOKEN
 
 from .buttons.default import cencel, main_button, get_back
-from .buttons.inline import create_days_keyboard, create_product_keyboard, urlkb, create_day_night_keyboard, create_material_keyboard, create_machine_num_keyboard, create_material_keyboard_for_product
+from .buttons.inline import create_days_keyboard, create_product_keyboard, urlkb, create_day_night_keyboard, create_days_info_kb, create_machine_num_keyboard, create_material_keyboard_for_product
 from .models import TgUser
-from .services.addcar import (add_product, add_material, add_measure, add_waste, add_defect, add_quantity)
+from .services.addcar import (add_product, add_material, add_measure, add_waste, add_defect, add_quantity, create_excel_report)
 from .services.steps import USER_STEP
 from telebot.types import ReplyKeyboardRemove
 from bot.models import Product, Material, Report
@@ -113,6 +114,25 @@ def cm_start(message):
     except Exception as e:
         print(e)
 
+
+@bot.message_handler(regexp="📊 Ma'lumot olish")
+def cm_start(message):
+    try:
+        user = TgUser.objects.get(telegram_id=message.from_user.id)
+        if str(user.telegram_id) in ADMINS:
+            markup = create_days_info_kb()
+            msg = bot.send_message(message.chat.id, "Choose a day:", reply_markup=markup)
+            user.edit_msg = msg.id 
+            user.save()
+        else:
+            bot.send_message(chat_id=message.from_user.id,
+                             text="🚫 Sizda ruxsat yo'q")
+            TgUser.objects.filter(telegram_id=message.chat.id).update(
+                step=USER_STEP['REPORT'], edit_msg=msg.id)
+    except Exception as e:
+        print(e)
+
+
 # Handler for button presses
 @bot.callback_query_handler(func=lambda call: call.data.startswith('nav_') or call.data.startswith('date_'))
 def handle_navigation(call):
@@ -134,6 +154,54 @@ def handle_navigation(call):
         report = Report.objects.create(date=date_obj, user=user)
         TgUser.objects.filter(telegram_id=call.from_user.id).update(
                 step=USER_STEP['ADD_SHIFT'], edit_msg=edit_message.id)
+        
+
+import os
+
+TEMP_DIR = os.path.join(os.getcwd(), 'temp_files')
+if not os.path.exists(TEMP_DIR):
+    os.makedirs(TEMP_DIR)
+    
+    
+@bot.callback_query_handler(func=lambda call: call.data.startswith('infnav_') or call.data.startswith('info_'))
+def handle_navigation(call):
+    user = TgUser.objects.get(telegram_id=call.from_user.id)
+    
+    if call.data.startswith('infnav_'):
+        _, year, month = call.data.split('_')
+        year, month = int(year), int(month)
+        markup = create_days_info_kb(year, month)
+        bot.edit_message_reply_markup(call.message.chat.id, call.message.message_id, reply_markup=markup)
+    
+    elif call.data.startswith('info_'):
+        date_str = call.data.split('_')[1]
+        selected_date = datetime.strptime(date_str, '%d.%m.%Y').date()
+
+        # Retrieve reports for the selected date and user
+        reports = Report.objects.filter(date=selected_date, user=user).order_by('default_value', 'machine_num')
+
+        if reports.exists():
+            # Generate Excel file and save it to a temporary location
+            file_name = f"report_{selected_date}.xlsx"
+            file_path = os.path.join(TEMP_DIR, file_name)
+            create_excel_report(reports, file_path)
+
+            # Send the file using its path
+            with open(file_path, 'rb') as file:
+                bot.send_document(
+                    chat_id=call.message.chat.id, 
+                    document=file, 
+                    caption=f"Reports for {selected_date.strftime('%d.%m.%Y')}"
+                )
+
+            # Delete the file after sending
+            os.remove(file_path)
+        else:
+            bot.answer_callback_query(call.id, f"No reports found for {date_str}")
+
+        bot.answer_callback_query(call.id, f"Selected date: {date_str}")
+
+
 
 # Handler to ignore other buttons (like month title and x button)
 @bot.callback_query_handler(func=lambda call: call.data == "ignore")
@@ -399,8 +467,6 @@ def text_handler(message):
             USER_STEP['ADD_DEFECT']: add_defect,
             USER_STEP['ADD_QUANTITY']: add_quantity,
             
-            
-
         }
         func = switcher.get(TgUser.objects.get(
             telegram_id=message.chat.id).step)
