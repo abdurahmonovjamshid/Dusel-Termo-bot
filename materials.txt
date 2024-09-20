@@ -1,0 +1,1218 @@
+Product_itemcode	product_Name	Material_itemcode	Material_name
+PFTS0223	30-03 COFFEE Rom	C0058	palistrol otxod drobilka
+PFTS0223	30-03 COFFEE Rom	C0064	palistrol
+PFTS0091	40-30 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFT0155	8-18 Driver korpus Dusel YTM	C0258	PC drobilka ko'cha
+PFT0155	8-18 Driver korpus Dusel YTM	C0259	PC drobilka ko'cha otxod
+PFT0155	8-18 Driver korpus Dusel YTM	C0041	Oq rang
+PFTS0082	40-13 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0071	50-71 Plafon korpus	PZ0105	PZ-Pet list 475-480
+PFT0047	PARRAK-100 Platinum	C0014	rich abs otxod
+PFT0047	PARRAK-100 Platinum	C0017	rich abs
+PFTS0164	50-03 BLUE Rom	C0058	palistrol otxod drobilka
+PFTS0164	50-03 BLUE Rom	C0064	palistrol
+PFTS0029	50-03 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0083	40-14 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0038	50-15 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0191	50-60 COFFEE Rom	C0058	palistrol otxod drobilka
+PFTS0191	50-60 COFFEE Rom	C0064	palistrol
+PFTS0136	40-09 COFFEE Rom	C0058	palistrol otxod drobilka
+PFTS0136	40-09 COFFEE Rom	C0064	palistrol
+PFTS0114	40-01 BLUE Rom	C0058	palistrol otxod drobilka
+PFTS0114	40-01 BLUE Rom	C0064	palistrol
+PFTS0118	40-03 COFFEE Rom	C0058	palistrol otxod drobilka
+PFTS0118	40-03 COFFEE Rom	C0064	palistrol
+PFTS0025	50-45 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0081	40-11 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0065	50-65 Plafon korpus	PZ0105	PZ-Pet list 475-480
+PFTS0102	40-41 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFT0195	Nar 8 Tagi Gold	C0014	rish abs otxod
+PFT0195	Nar 8 Tagi Gold	C0017	rich abs
+PFTS0180	50-02 COFFEE Rom	C0058	palistrol otxod drobilka
+PFTS0180	50-02 COFFEE Rom	C0064	palistrol
+PFTS0057	50-48 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0212	50-69 Black Rom	C0058	palistrol otxod drobilka
+PFT0193	Vnut 24 Ramka Platinum	C0014	rish abs otxod
+PFT0193	Vnut 24 Ramka Platinum	C0017	rich abs
+PFTS0212	50-69 Black Rom	C0064	palistrol
+PFTS0049	50-34 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0218	40-18 Plafon Korpus	PZ0104	PZ-Pet list 365-370
+PFTS0063	50-63 Plafon korpus	PZ0105	PZ-Pet list 475-480
+PFTS0061	50-61 Plafon korpus	PZ0105	PZ-Pet list 475-480
+PFTS0094	40-33 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0027	50-01 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0104	40-43 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0227	50-09 COFFEE Rom	C0058	palistrol otxod drobilka
+PFTS0227	50-09 COFFEE Rom	C0064	palistrol
+PFTS0062	50-62 Plafon korpus	PZ0105	PZ-Pet list 475-480
+PFTS0086	40-25 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0176	50-01 COFFEE Rom	C0064	palistrol
+PFTS0176	50-01 COFFEE Rom	C0058	palistrol otxod drobilka
+PFT0049	PARRAK-100 Silver	C0014	rich abs otxod
+PFT0049	PARRAK-100 Silver	C0017	rich abs
+PFTS0100	40-39 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0059	50-50 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0209	50-65 cheti COFFEE Rom	C0058	palistrol otxod drobilka
+PFTS0209	50-65 cheti COFFEE Rom	C0064	palistrol
+PFTS0033	50-07 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0229	50-09 BLUE Rom	C0058	palistrol otxod drobilka
+PFTS0229	50-09 BLUE Rom	C0064	palistrol
+PFTS0037	50-14 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0047	50-32 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0060	50-60 Plafon korpus	PZ0105	PZ-Pet list 475-480
+PFTS0035	50-11 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0072	50-72 Plafon korpus	PZ0105	PZ-Pet list 475-480
+PFTS0161	40-37 Coffe Rom	C0058	palistrol otxod drobilka
+PFTS0161	40-37 Coffe Rom	C0064	palistrol
+PFTS0187	50-05 COFFEE Rom	C0058	palistrol otxod drobilka
+PFT0046	PARRAK-100 Gold	C0014	rich abs otxod
+PFT0046	PARRAK-100 Gold	C0017	rich abs
+PFTS0187	50-05 COFFEE Rom	C0064	palistrol
+PFTS0196	50-61 BLUE Rom	C0058	palistrol otxod drobilka
+PFTS0196	50-61 BLUE Rom	C0064	palistrol
+PFTS0031	50-05 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0103	40-42 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0111	40-50 Plafon korpus	C0213	Pet list otxod
+PFTS0111	40-50 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFT0107	Ramka 108	C0017	rich abs
+PFT0107	Ramka 108	C0014	rish abs otxod
+PFTS0042	50-27 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0042	50-27 Plafon korpus	C0213	Pet list otxod
+PFTS0128	40-05 BLUE Rom	C0261	palistrol qozon
+PFTS0128	40-05 BLUE Rom	C0061	palistrol otxod
+PFT0092	Ichi 84	C0014	rish abs otxod
+PFT0092	Ichi 84	C0017	rich abs
+PFTS0121	40-03 RED Rom	PZ0031	PZ-RED rang
+PFTS0121	40-03 RED Rom	C0061	palistrol otxod
+PFTS0121	40-03 RED Rom	C0261	palistrol qozon
+PFT0160	Tosh keramika 24 (2 talik roz)	PFE0214	Tosh keramika 24 (2talik roz) presslash
+PFT0074	Kiyim 22	C0010	vanna abs
+PFT0074	Kiyim 22	C0046	aralash otxod drobilka
+PFT0074	Kiyim 22	C0043	aralash otxod
+PFT0012	P\L RAMKA 40 Dumaloq 48 W	C0064	palistrol
+PFT0012	P\L RAMKA 40 Dumaloq 48 W	C0061	palistrol otxod
+PFTS0017	30w-korpus	LZ0012	AL-KORPUS-30
+PFTS0017	30w-korpus	C0149	PBT
+PFTS0017	30w-korpus	C0150	PBT otxod
+PFT0105	Ramka 106	C0017	rich abs
+PFT0105	Ramka 106	C0014	rish abs otxod
+PFT0119	Ramka DL-BI2	C0041	Oq rang
+PFT0119	Ramka DL-BI2	C0053	Kaltsiy
+PFT0119	Ramka DL-BI2	C0060	PP otxod
+PFT0119	Ramka DL-BI2	C0072	PP drobilka sergili
+PFT0053	Veral 40 Patron usti stakan	C0062	yangi qora siryo otxod
+PFT0053	Veral 40 Patron usti stakan	C0063	yangi qora siryo
+PFTS0194	50-61 COFFEE Rom	C0261	palistrol qozon
+PFTS0194	50-61 COFFEE Rom	C0061	palistrol otxod
+PFT0137	Akril Panel Vnut 48  turburchak	C0057	PP
+PFT0137	Akril Panel Vnut 48  turburchak	C0060	PP otxod
+PFT0137	Akril Panel Vnut 48  turburchak	C0040	W rang
+PFTS0130	40-06 COFFEE Rom	PZ0028	PZ-To'q COFFEE rang
+PFTS0130	40-06 COFFEE Rom	C0261	palistrol qozon
+PFTS0130	40-06 COFFEE Rom	C0061	palistrol otxod
+PFTS0194	50-61 COFFEE Rom	PZ0030	PZ-COFFEE rang
+PFTS0066	50-66 Plafon korpus	PFTS0021	Pet list 475-480 Boyalgan
+PFTS0066	50-66 Plafon korpus	C0182	PVC otxod
+PFTS0050	50-38 Plafon korpus	C0213	Pet list otxod
+PFTS0050	50-38 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0129	40-05 RED Rom	C0061	palistrol otxod
+PFTS0129	40-05 RED Rom	C0261	palistrol qozon
+PFT0057	Korpus 42	C0053	Kaltsiy
+PFT0057	Korpus 42	C0059	PP drobilka
+PFT0057	Korpus 42	C0052	Ko'k rang
+PFT0057	Korpus 42	C0060	PP otxod
+PFT0209	Vnut 16 Ramka qora	C0266	Qora abs ( Nar Patron)
+PFT0073	Knopka 22	C0068	songru abs
+PFT0073	Knopka 22	C0056	songru abs otxod
+PFTS0012	7w-korpus(10)	C0149	PBT
+PFTS0012	7w-korpus(10)	C0196	PBT drobilka
+PFTS0179	50-01 RED Rom	C0064	palistrol
+PFTS0179	50-01 RED Rom	C0058	palistrol otxod drobilka
+PFTS0130	40-06 COFFEE Rom	C0064	palistrol
+PFTS0130	40-06 COFFEE Rom	C0058	palistrol otxod drobilka
+PFTS0050	50-38 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0066	50-66 Plafon korpus	PZ0105	PZ-Pet list 475-480
+PFTS0194	50-61 COFFEE Rom	C0064	palistrol
+PFTS0194	50-61 COFFEE Rom	C0058	palistrol otxod drobilka
+PFTS0128	40-05 BLUE Rom	C0064	palistrol
+PFTS0128	40-05 BLUE Rom	C0058	palistrol otxod drobilka
+PFTS0042	50-27 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0162	50-03 COFFEE Rom	C0058	palistrol otxod drobilka
+PFTS0162	50-03 COFFEE Rom	C0064	palistrol
+PFTS0013	12w-korpus	C0149	PBT
+PFTS0013	12w-korpus	C0196	PBT drobilka
+PFTS0129	40-05 RED Rom	C0064	palistrol
+PFTS0129	40-05 RED Rom	C0058	palistrol otxod drobilka
+PFTS0121	40-03 RED Rom	C0064	palistrol
+PFTS0121	40-03 RED Rom	C0058	palistrol otxod drobilka
+PFT0160	Tosh keramika 24 (2 talik roz)	PFE0213	loy drobilka
+PFTS0111	40-50 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0197	50-61 RED Rom	C0058	palistrol otxod drobilka
+PFTS0197	50-61 RED Rom	C0064	palistrol
+PFT0150	24 Driver korpus Veral YTM	C0041	Oq rang
+PFT0150	24 Driver korpus Veral YTM	C0259	PC drobilka ko'cha otxod
+PFT0150	24 Driver korpus Veral YTM	C0258	PC drobilka ko'cha
+PFTS0024	50-44 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0046	50-31 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFT0154	48 Driver korpus Veral YTM	C0041	Oq rang
+PFT0154	48 Driver korpus Veral YTM	C0259	PC drobilka ko'cha otxod
+PFT0154	48 Driver korpus Veral YTM	C0258	PC drobilka ko'cha
+PFTS0052	50-40 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFT0192	Vnut 24 Ramka Gold	C0014	rish abs otxod
+PFT0192	Vnut 24 Ramka Gold	C0017	rich abs
+PFTS0045	50-30 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFT0190	Vnut 8 Ramka Gold	C0017	rich abs
+PFT0190	Vnut 8 Ramka Gold	C0014	rish abs otxod
+PFTS0120	40-03 BLUE Rom	C0064	palistrol
+PFTS0120	40-03 BLUE Rom	C0058	palistrol otxod drobilka
+PFT0042	PLASMASSA TEGI-100 Gold	C0014	rich abs otxod
+PFT0042	PLASMASSA TEGI-100 Gold	C0017	rich abs
+PFT0041	PLASMASSA TEGI-100 Platinum	C0014	rich abs otxod
+PFT0041	PLASMASSA TEGI-100 Platinum	C0017	rich abs
+PFTS0041	50-26 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0039	50-24 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0095	40-34 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0043	50-28 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0015	18w-korpus	C0149	PBT
+PFTS0015	18w-korpus	C0196	PBT drobilka
+PFTS0222	40-08 Plafon Korpus	PZ0104	PZ-Pet list 365-370
+PFTS0107	40-46 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0182	50-04 COFFEE Rom	C0064	palistrol
+PFTS0182	50-04 COFFEE Rom	C0058	palistrol otxod drobilka
+PFTS0058	50-49 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0079	40-07 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0088	40-27 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFT0009	KRISHKA-100 Silver	C0014	rish abs otxod
+PFT0009	KRISHKA-100 Silver	C0017	rich abs
+PFT0194	Nar 8 Tagi platinum	C0017	rich abs
+PFT0194	Nar 8 Tagi platinum	C0014	rish abs otxod
+PFTS0030	50-04 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFT0152	36 Driver korpus Veral YTM	C0258	PC drobilka ko'cha
+PFT0152	36 Driver korpus Veral YTM	C0259	PC drobilka ko'cha otxod
+PFT0152	36 Driver korpus Veral YTM	C0041	Oq rang
+PFTS0078	40-06 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0101	40-40 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0087	40-26 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0105	40-44 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0075	40-03 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0116	40-02 COFFEE Rom	C0058	palistrol otxod drobilka
+PFTS0116	40-02 COFFEE Rom	C0064	palistrol
+PFTS0054	50-42 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0077	40-05 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFT0149	24 Driver korpus Dusel YTM	C0041	Oq rang
+PFT0149	24 Driver korpus Dusel YTM	C0259	PC drobilka ko'cha otxod
+PFT0149	24 Driver korpus Dusel YTM	C0258	PC drobilka ko'cha
+PFTS0240	50-12 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0026	50-46 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFT0185	Vnut 12 Ramka Platinum	C0017	rich abs
+PFT0185	Vnut 12 Ramka Platinum	C0014	rish abs otxod
+PFTS0080	40-09 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0053	50-41 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0068	50-68 Plafon korpus	PZ0105	PZ-Pet list 475-480
+PFT0159	Tosh keramika 23 (1 talik roz)	PFE0215	Tosh keramika 23 (1 talik roz) presslash
+PFTS0093	40-32 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0089	40-28 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFT0010	KRISHKA-100 Platinum	C0014	rish abs otxod
+PFT0010	KRISHKA-100 Platinum	C0017	rich abs
+PFTS0098	40-37 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0096	40-35 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0108	40-47 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0028	50-02 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0070	50-70 Plafon korpus	PZ0105	PZ-Pet list 475-480
+PFTS0040	50-25 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0230	50-09 RED Rom	C0064	palistrol
+PFTS0067	50-67 Plafon korpus	PZ0105	PZ-Pet list 475-480
+PFT0043	PLASMASSA TEGI-100 Silver	C0014	rich abs otxod
+PFT0043	PLASMASSA TEGI-100 Silver	C0017	rich abs
+PFT0196	Nar 24 Tagi gold	C0014	rish abs otxod
+PFT0196	Nar 24 Tagi gold	C0017	rich abs
+PFTS0064	50-64 Plafon korpus	PZ0105	PZ-Pet list 475-480
+PFTS0097	40-36 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0165	50-03 RED Rom	C0058	palistrol otxod drobilka
+PFTS0165	50-03 RED Rom	C0064	palistrol
+PFTS0099	40-38 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0048	50-33 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0069	50-69 Plafon korpus	PZ0105	PZ-Pet list 475-480
+PFTS0230	50-09 RED Rom	C0058	palistrol otxod drobilka
+PFTS0055	50-43 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0036	50-13 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0112	40-01 COFFEE Rom	C0058	palistrol otxod drobilka
+PFTS0112	40-01 COFFEE Rom	C0064	palistrol
+PFTS0237	50-67 coffee kichik	C0058	palistrol otxod drobilka
+PFTS0237	50-67 coffee kichik	C0064	palistrol
+PFT0191	Vnut 8 Ramka Platinum	C0014	rish abs otxod
+PFT0191	Vnut 8 Ramka Platinum	C0017	rich abs
+PFT0184	Vnut 12 Ramka Gold	C0017	rich abs
+PFT0184	Vnut 12 Ramka Gold	C0014	rish abs otxod
+PFTS0085	40-24 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0084	40-15 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFT0156	8-18 Driver korpus Veral YTM	C0041	Oq rang
+PFT0156	8-18 Driver korpus Veral YTM	C0259	PC drobilka ko'cha otxod
+PFT0156	8-18 Driver korpus Veral YTM	C0258	PC drobilka ko'cha
+PFTS0193	50-60 BLUE Rom	C0064	palistrol
+PFTS0193	50-60 BLUE Rom	C0058	palistrol otxod drobilka
+PFT0151	36 Driver korpus Dusel YTM	C0258	PC drobilka ko'cha
+PFT0151	36 Driver korpus Dusel YTM	C0259	PC drobilka ko'cha otxod
+PFT0151	36 Driver korpus Dusel YTM	C0041	Oq rang
+PFTS0074	40-02 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFT0008	KRISHKA-100 Gold	C0014	rish abs otxod
+PFT0008	KRISHKA-100 Gold	C0017	rich abs
+PFTS0034	50-09 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFT0153	48 Driver korpus Dusel YTM	C0041	Oq rang
+PFT0153	48 Driver korpus Dusel YTM	C0259	PC drobilka ko'cha otxod
+PFT0153	48 Driver korpus Dusel YTM	C0258	PC drobilka ko'cha
+PFTS0073	40-01 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0051	50-39 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0090	40-29 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0239	50-10 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0106	40-45 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0109	40-48 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0110	40-49 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0190	50-60 RED Rom	C0058	palistrol otxod drobilka
+PFTS0190	50-60 RED Rom	C0064	palistrol
+PFTS0056	50-47 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0216	40-17 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0044	50-29 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0115	40-01 RED Rom	C0058	palistrol otxod drobilka
+PFTS0115	40-01 RED Rom	C0064	palistrol
+PFTS0076	40-04 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0126	40-05 COFFEE Rom	C0058	palistrol otxod drobilka
+PFTS0126	40-05 COFFEE Rom	C0064	palistrol
+PFTS0092	40-31 Plafon korpus	PZ0104	PZ-Pet list 365-370
+PFTS0124	40-04 COFFEE Rom	C0058	palistrol otxod drobilka
+PFTS0124	40-04 COFFEE Rom	C0064	palistrol
+PFTS0011	5w-korpus	C0149	PBT
+PFTS0011	5w-korpus	C0196	PBT drobilka
+PFTS0178	50-01 BLUE Rom	C0064	palistrol
+PFTS0178	50-01 BLUE Rom	C0058	palistrol otxod drobilka
+PFTS0032	50-06 Plafon korpus	PZ0106	PZ-Pet list 465-470
+PFTS0217	40-10 Plafon Korpus	PZ0104	PZ-Pet list 365-370
+PFTS0186	50-05 RED Rom	C0058	palistrol otxod drobilka
+PFTS0186	50-05 RED Rom	C0064	palistrol
+PFTS0184	50-05 BLUE Rom	C0058	palistrol otxod drobilka
+PFTS0184	50-05 BLUE Rom	C0064	palistrol
+PFTS0014	15w-korpus	C0196	PBT drobilka
+PFTS0014	15w-korpus	C0149	PBT
+PFT0160	Tosh keramika 24 (2 talik roz)	C0170	Gulbota
+PFT0160	Tosh keramika 24 (2 talik roz)	C0173	Shira
+PFT0049	PARRAK-100 Silver	C0186	Rastvaritel
+PFT0049	PARRAK-100 Silver	C0176	Silver  rang
+PFT0049	PARRAK-100 Silver	PFT0048	PARRAK-100
+PFT0160	Tosh keramika 24 (2 talik roz)	C0169	Shpat (drabirka)
+PFT0160	Tosh keramika 24 (2 talik roz)	C0171	Kvarts
+PFT0160	Tosh keramika 24 (2 talik roz)	C0174	Tosh (shar)
+PFT0160	Tosh keramika 24 (2 talik roz)	C0172	Kaliy
+PFTS0086	40-25 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0086	40-25 Plafon korpus	C0213	Pet list otxod
+PFT0108	Ramka 27	C0056	songru abs otxod
+PFT0108	Ramka 27	C0068	songru abs
+PFT0197	PLASMASSA TEGI-100 black	C0266	Qora abs ( Nar Patron)
+PFT0032	Vnut 2 Ramka	C0017	rich abs
+PFT0032	Vnut 2 Ramka	C0014	rich abs otxod
+PFT0181	Korpus 65	C0066	qora siryo
+PFTS0033	50-07 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0033	50-07 Plafon korpus	C0213	Pet list otxod
+PFT0138	Akril Panel 10  turburchak	C0057	PP
+PFT0138	Akril Panel 10  turburchak	C0040	W rang
+PFT0138	Akril Panel 10  turburchak	C0060	PP otxod
+PFTS0113	40-01 WHITE Rom	C0061	palistrol otxod
+PFTS0113	40-01 WHITE Rom	C0064	palistrol
+PFTS0229	50-09 BLUE Rom	C0061	palistrol otxod
+PFTS0229	50-09 BLUE Rom	PZ0025	PZ-BLUE rang
+PFTS0229	50-09 BLUE Rom	C0261	palistrol qozon
+PFTS0125	40-04 WHITE Rom	C0064	palistrol
+PFTS0125	40-04 WHITE Rom	C0061	palistrol otxod
+PFT0058	Veral 19 korpus	C0062	yangi qora siryo otxod
+PFT0058	Veral 19 korpus	C0063	yangi qora siryo
+PFT0129	Du 58 korpus	C0017	rich abs
+PFT0129	Du 58 korpus	C0014	rich abs otxod
+PFT0163	Knopka 73	C0014	rich abs otxod
+PFT0163	Knopka 73	C0017	rich abs
+PFT0184	Vnut 12 Ramka Gold	C0175	Gold rang
+PFT0184	Vnut 12 Ramka Gold	C0186	Rastvaritel
+PFT0184	Vnut 12 Ramka Gold	PFT0133	Vnut 12 Ramka
+PFT0184	Vnut 12 Ramka Gold	C0179	Plastafleks
+PFT0076	Ramka 46	C0056	songru abs otxod
+PFT0129	Du 58 korpus	C0011	rich abs drobilka
+PFTS0036	50-13 Plafon korpus	C0213	Pet list otxod
+PFTS0036	50-13 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFT0098	Knopka 102	C0017	rich abs
+PFT0098	Knopka 102	C0014	rish abs otxod
+PFT0076	Ramka 46	C0068	songru abs
+PFTS0209	50-65 cheti COFFEE Rom	C0261	palistrol qozon
+PFTS0209	50-65 cheti COFFEE Rom	C0061	palistrol otxod
+PFTS0100	40-39 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0100	40-39 Plafon korpus	C0213	Pet list otxod
+PFTS0059	50-50 Plafon korpus	C0213	Pet list otxod
+PFTS0059	50-50 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0112	40-01 COFFEE Rom	C0061	palistrol otxod
+PFTS0112	40-01 COFFEE Rom	C0261	palistrol qozon
+PFTS0112	40-01 COFFEE Rom	PZ0030	PZ-COFFEE rang
+PFTS0237	50-67 coffee kichik	C0261	palistrol qozon
+PFTS0237	50-67 coffee kichik	PZ0030	PZ-COFFEE rang
+PFT0191	Vnut 8 Ramka Platinum	C0186	Rastvaritel
+PFT0191	Vnut 8 Ramka Platinum	C0177	Platinum  rang
+PFT0191	Vnut 8 Ramka Platinum	C0179	Plastafleks
+PFT0191	Vnut 8 Ramka Platinum	PFT0017	Vnut 8 Ramka
+PFT0094	Ichi 87	C0014	rish abs otxod
+PFT0094	Ichi 87	C0017	rich abs
+PFTS0035	50-11 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0035	50-11 Plafon korpus	C0213	Pet list otxod
+PFTS0196	50-61 BLUE Rom	C0261	palistrol qozon
+PFTS0196	50-61 BLUE Rom	C0061	palistrol otxod
+PFTS0208	50-65 o'rtasi BLACK Rom	C0064	palistrol
+PFT0116	Tosh plast 81	C0074	PC otxod
+PFT0116	Tosh plast 81	C0271	kul rang
+PFT0116	Tosh plast 81	C0071	PC
+PFTS0185	50-05 WHITE Rom	C0061	palistrol otxod
+PFTS0185	50-05 WHITE Rom	C0064	palistrol
+PFTS0161	40-37 Coffe Rom	PZ0028	PZ-To'q COFFEE rang
+PFTS0161	40-37 Coffe Rom	C0261	palistrol qozon
+PFTS0161	40-37 Coffe Rom	C0061	palistrol otxod
+PFTS0016	20w-korpus	C0149	PBT
+PFTS0016	20w-korpus	LZ0017	AL-KORPUS-20
+PFTS0016	20w-korpus	C0150	PBT otxod
+PFTS0060	50-60 Plafon korpus	C0182	PVC otxod
+PFT0212	Nar 12 Tagi qora	C0266	Qora abs ( Nar Patron)
+PFTS0037	50-14 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0037	50-14 Plafon korpus	C0213	Pet list otxod
+PFT0075	Knopka 21	C0056	songru abs otxod
+PFT0075	Knopka 21	C0068	songru abs
+PFTS0060	50-60 Plafon korpus	PFTS0021	Pet list 475-480 Boyalgan
+PFT0067	Tarelka 17	C0044	songru abs drobilka
+PFTS0227	50-09 COFFEE Rom	C0261	palistrol qozon
+PFTS0227	50-09 COFFEE Rom	PZ0028	PZ-To'q COFFEE rang
+PFTS0227	50-09 COFFEE Rom	C0061	palistrol otxod
+PFT0013	P\L RAMKA 50 Dumaloq 72 W	C0061	palistrol otxod
+PFT0013	P\L RAMKA 50 Dumaloq 72 W	C0064	palistrol
+PFT0067	Tarelka 17	C0056	songru abs otxod
+PFT0113	Tosh plast 23	C0042	songru tosh abs otxod
+PFT0113	Tosh plast 23	C0045	songru tosh abs
+PFT0113	Tosh plast 23	C0039	songru tosh abs drobilka
+PFTS0062	50-62 Plafon korpus	PFTS0021	Pet list 475-480 Boyalgan
+PFTS0062	50-62 Plafon korpus	C0182	PVC otxod
+PFT0046	PARRAK-100 Gold	C0186	Rastvaritel
+PFT0046	PARRAK-100 Gold	C0175	Gold rang
+PFT0046	PARRAK-100 Gold	PFT0048	PARRAK-100
+PFT0048	PARRAK-100	C0014	rich abs otxod
+PFT0048	PARRAK-100	C0017	rich abs
+PFTS0192	50-60 WHITE Rom	C0064	palistrol
+PFTS0192	50-60 WHITE Rom	C0061	palistrol otxod
+PFT0187	RICH Ramka 3	C0014	rich abs otxod
+PFT0187	RICH Ramka 3	C0017	rich abs
+PFTS0187	50-05 COFFEE Rom	C0261	palistrol qozon
+PFTS0187	50-05 COFFEE Rom	C0061	palistrol otxod
+PFTS0187	50-05 COFFEE Rom	PZ0030	PZ-COFFEE rang
+PFTS0008	40w-qopqoq	C0160	PPT
+PFTS0008	40w-qopqoq	C0232	PP lampa
+PFTS0008	40w-qopqoq	C0233	PP lampa otxod
+PFT0117	PARRAK-150	C0017	rich abs
+PFT0117	PARRAK-150	C0014	rish abs otxod
+PFT0029	Vnut 16 Oyna	C0064	palistrol
+PFT0029	Vnut 16 Oyna	C0048	Qora rang
+PFT0029	Vnut 16 Oyna	C0217	Stretch plafon
+PFT0029	Vnut 16 Oyna	C0061	palistrol otxod
+PFTS0126	40-05 COFFEE Rom	PZ0030	PZ-COFFEE rang
+PFTS0126	40-05 COFFEE Rom	C0061	palistrol otxod
+PFTS0126	40-05 COFFEE Rom	C0261	palistrol qozon
+PFTS0092	40-31 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0092	40-31 Plafon korpus	C0213	Pet list otxod
+PFT0139	Akril Panel 10 dumaloq	C0060	PP otxod
+PFT0139	Akril Panel 10 dumaloq	C0040	W rang
+PFT0139	Akril Panel 10 dumaloq	C0057	PP
+PFTS0076	40-04 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0076	40-04 Plafon korpus	C0213	Pet list otxod
+PFTS0011	5w-korpus	C0250	PBT qozon
+PFTS0011	5w-korpus	LZ0024	AL-KORPUS-5
+PFTS0011	5w-korpus	C0150	PBT otxod
+PFTS0019	50w-korpus	C0150	PBT otxod
+PFTS0019	50w-korpus	LZ0056	AL-KORPUS-50
+PFTS0019	50w-korpus	C0149	PBT
+PFTS0124	40-04 COFFEE Rom	C0261	palistrol qozon
+PFTS0124	40-04 COFFEE Rom	PZ0028	PZ-To'q COFFEE rang
+PFTS0124	40-04 COFFEE Rom	C0061	palistrol otxod
+PFT0115	Tosh plast 71	C0071	PC
+PFT0115	Tosh plast 71	C0271	kul rang
+PFT0115	Tosh plast 71	C0166	PC drobilka
+PFT0115	Tosh plast 71	C0074	PC otxod
+PFTS0230	50-09 RED Rom	C0061	palistrol otxod
+PFTS0230	50-09 RED Rom	PZ0031	PZ-RED rang
+PFTS0067	50-67 Plafon korpus	C0182	PVC otxod
+PFTS0067	50-67 Plafon korpus	PFTS0021	Pet list 475-480 Boyalgan
+PFT0070	Churvaqa 14	C0046	aralash otxod drobilka
+PFT0070	Churvaqa 14	C0043	aralash otxod
+PFT0043	PLASMASSA TEGI-100 Silver	PFT0044	PLASMASSA TEGI-100
+PFT0043	PLASMASSA TEGI-100 Silver	C0176	Silver  rang
+PFT0043	PLASMASSA TEGI-100 Silver	C0186	Rastvaritel
+PFT0196	Nar 24 Tagi gold	C0175	Gold rang
+PFT0196	Nar 24 Tagi gold	C0179	Plastafleks
+PFT0196	Nar 24 Tagi gold	PFT0021	Nar 24 Tagi
+PFT0196	Nar 24 Tagi gold	C0186	Rastvaritel
+PFT0072	Tosh plast 21	C0045	songru tosh abs
+PFT0072	Tosh plast 21	C0039	songru tosh abs drobilka
+PFT0072	Tosh plast 21	C0042	songru tosh abs otxod
+PFTS0009	50w-qopqoq	C0232	PP lampa
+PFTS0009	50w-qopqoq	C0160	PPT
+PFTS0009	50w-qopqoq	C0233	PP lampa otxod
+PFT0026	Vnut 4 Tagi	C0053	Kaltsiy
+PFT0026	Vnut 4 Tagi	C0178	Shit rang
+PFT0026	Vnut 4 Tagi	C0060	PP otxod
+PFT0026	Vnut 4 Tagi	C0059	PP drobilka
+PFTS0217	40-10 Plafon Korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFT0087	Ichi 79	C0014	rish abs otxod
+PFT0087	Ichi 79	C0017	rich abs
+PFTS0127	40-05 WHITE Rom	C0064	palistrol
+PFTS0127	40-05 WHITE Rom	C0061	palistrol otxod
+PFTS0217	40-10 Plafon Korpus	C0213	Pet list otxod
+PFTS0032	50-06 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0032	50-06 Plafon korpus	C0213	Pet list otxod
+PFT0062	Knopka 14	C0068	songru abs
+PFT0062	Knopka 14	C0056	songru abs otxod
+PFT0095	Kiyim 71	C0074	PC otxod
+PFT0095	Kiyim 71	C0071	PC
+PFTS0184	50-05 BLUE Rom	C0261	palistrol qozon
+PFTS0184	50-05 BLUE Rom	C0061	palistrol otxod
+PFTS0044	50-29 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0044	50-29 Plafon korpus	C0213	Pet list otxod
+PFT0102	Prazrachniy 72	C0071	PC
+PFT0102	Prazrachniy 72	C0074	PC otxod
+PFTS0115	40-01 RED Rom	PZ0031	PZ-RED rang
+PFTS0115	40-01 RED Rom	C0061	palistrol otxod
+PFTS0115	40-01 RED Rom	C0261	palistrol qozon
+PFTS0225	40-34 Plafon korpus VERAL	PZ0104	PZ-Pet list 365-370
+PFTS0225	40-34 Plafon korpus VERAL	C0213	Pet list otxod
+PFT0038	ps 24-1 qopqoq	C0057	PP
+PFT0038	ps 24-1 qopqoq	C0060	PP otxod
+PFT0038	ps 24-1 qopqoq	C0040	W rang
+PFT0208	Nar 24 Tagi qora	C0266	Qora abs ( Nar Patron)
+PFTS0186	50-05 RED Rom	C0061	palistrol otxod
+PFTS0186	50-05 RED Rom	C0261	palistrol qozon
+PFT0111	Tarelka 101	C0017	rich abs
+PFT0111	Tarelka 101	C0014	rish abs otxod
+PFT0118	Du 20 Vilka korpus	C0069	qora siryo otxod
+PFT0118	Du 20 Vilka korpus	C0066	qora siryo
+PFTS0084	40-15 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0084	40-15 Plafon korpus	C0213	Pet list otxod
+PFT0014	Vnut 24 Ramka	C0014	rish abs otxod
+PFT0014	Vnut 24 Ramka	C0017	rich abs
+PFTS0085	40-24 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0085	40-24 Plafon korpus	C0213	Pet list otxod
+PFTS0069	50-69 Plafon korpus	C0182	PVC otxod
+PFTS0069	50-69 Plafon korpus	PFTS0021	Pet list 475-480 Boyalgan
+PFTS0097	40-36 Plafon korpus	C0213	Pet list otxod
+PFTS0097	40-36 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFT0025	Vnut 6 Ramka	C0014	rish abs otxod
+PFT0025	Vnut 6 Ramka	C0011	rich abs drobilka
+PFTS0099	40-38 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0099	40-38 Plafon korpus	C0213	Pet list otxod
+PFT0206	Vnut 36 Ramka	C0017	rich abs
+PFTS0230	50-09 RED Rom	C0261	palistrol qozon
+PFT0025	Vnut 6 Ramka	C0017	rich abs
+PFTS0165	50-03 RED Rom	PZ0031	PZ-RED rang
+PFTS0165	50-03 RED Rom	C0061	palistrol otxod
+PFTS0165	50-03 RED Rom	C0261	palistrol qozon
+PFT0005	Vnut 4 Oyna	C0061	palistrol otxod
+PFT0005	Vnut 4 Oyna	C0217	Stretch plafon
+PFT0083	Ramka 24	C0068	songru abs
+PFT0083	Ramka 24	C0056	songru abs otxod
+PFTS0040	50-25 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0040	50-25 Plafon korpus	C0213	Pet list otxod
+PFTS0070	50-70 Plafon korpus	PFTS0021	Pet list 475-480 Boyalgan
+PFTS0070	50-70 Plafon korpus	C0182	PVC otxod
+PFT0033	Vnut 4 Ramka	C0017	rich abs
+PFT0033	Vnut 4 Ramka	C0014	rich abs otxod
+PFT0005	Vnut 4 Oyna	C0064	palistrol
+PFT0005	Vnut 4 Oyna	C0048	Qora rang
+PFT0157	Ramka 69	C0017	rich abs
+PFT0157	Ramka 69	C0014	rich abs otxod
+PFTS0028	50-02 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0028	50-02 Plafon korpus	C0213	Pet list otxod
+PFTS0162	50-03 COFFEE Rom	PZ0030	PZ-COFFEE rang
+PFTS0013	12w-korpus	LZ0031	AL-KORPUS-12
+PFTS0013	12w-korpus	C0250	PBT qozon
+PFTS0013	12w-korpus	C0150	PBT otxod
+PFTS0162	50-03 COFFEE Rom	C0261	palistrol qozon
+PFTS0162	50-03 COFFEE Rom	C0061	palistrol otxod
+PFT0019	Nar 4 Tagi	C0014	rish abs otxod
+PFT0019	Nar 4 Tagi	C0017	rich abs
+PFT0136	Akril Panel 36 turburchak	C0060	PP otxod
+PFT0136	Akril Panel 36 turburchak	C0057	PP
+PFT0136	Akril Panel 36 turburchak	C0040	W rang
+PFT0110	Ramka 81	C0014	rish abs otxod
+PFT0077	Ramka 21	C0068	songru abs
+PFT0077	Ramka 21	C0056	songru abs otxod
+PFT0166	Ichi 97	C0014	rich abs otxod
+PFT0166	Ichi 97	C0017	rich abs
+PFT0110	Ramka 81	C0011	rich abs drobilka
+PFT0110	Ramka 81	C0017	rich abs
+PFT0004	Vnut 12 Oyna	C0061	palistrol otxod
+PFT0004	Vnut 12 Oyna	C0048	Qora rang
+PFT0004	Vnut 12 Oyna	C0064	palistrol
+PFT0004	Vnut 12 Oyna	C0217	Stretch plafon
+PFT0017	Vnut 8 Ramka	C0017	rich abs
+PFT0017	Vnut 8 Ramka	C0014	rish abs otxod
+PFT0145	Du 47 korpus	C0070	oq siryo
+PFTS0006	20w-qopqoq	C0232	PP lampa
+PFTS0006	20w-qopqoq	C0233	PP lampa otxod
+PFTS0006	20w-qopqoq	C0160	PPT
+PFT0059	Ve40 Patron tagi	C0063	yangi qora siryo
+PFT0055	Drayver qopqoq	C0253	Musr otxod
+PFT0055	Drayver qopqoq	C0038	Qizil rang
+PFT0055	Drayver qopqoq	C0249	Musr drobilka
+PFTS0012	7w-korpus(10)	C0250	PBT qozon
+PFTS0012	7w-korpus(10)	LZ0021	AL-KORPUS-7(10)
+PFTS0012	7w-korpus(10)	C0150	PBT otxod
+PFT0141	Akril Panel 24 dumaloq	C0060	PP otxod
+PFT0141	Akril Panel 24 dumaloq	C0040	W rang
+PFT0141	Akril Panel 24 dumaloq	C0057	PP
+PFT0186	RICH Ramka 2	C0017	rich abs
+PFT0186	RICH Ramka 2	C0014	rich abs otxod
+PFTS0007	30w-qopqoq	C0160	PPT
+PFTS0007	30w-qopqoq	C0233	PP lampa otxod
+PFTS0007	30w-qopqoq	C0232	PP lampa
+PFT0160	Tosh keramika 24 (2 talik roz)	PFE0217	Tosh keramika 24 (2 talik roz) tozalash
+PFT0167	Qopqoq 97	C0014	rich abs otxod
+PFT0167	Qopqoq 97	C0017	rich abs
+PFT0124	vilka 59 60 ichi	C0074	PC otxod
+PFT0124	vilka 59 60 ichi	C0166	PC drobilka
+PFT0124	vilka 59 60 ichi	C0048	Qora rang
+PFT0164	Tosh plast 79	C0071	PC
+PFT0164	Tosh plast 79	C0271	kul rang
+PFT0164	Tosh plast 79	C0074	PC otxod
+PFT0123	vilka 60	C0262	Rich artel aralash otxod
+PFT0123	vilka 60	C0157	artel abs
+PFT0123	vilka 60	C0017	rich abs
+PFTS0005	18w-qopqoq	C0231	PC lampa
+PFTS0005	18w-qopqoq	C0234	PC lampa otxod
+PFT0036	Vnut 16 Tagi	C0178	Shit rang
+PFT0036	Vnut 16 Tagi	C0060	PP otxod
+PFT0036	Vnut 16 Tagi	C0053	Kaltsiy
+PFT0036	Vnut 16 Tagi	C0059	PP drobilka
+PFT0109	Ramka 71	C0017	rich abs
+PFT0109	Ramka 71	C0014	rish abs otxod
+PFT0104	Ramka 104	C0017	rich abs
+PFT0104	Ramka 104	C0014	rish abs otxod
+PFT0135	Akril Panel 18 turburchak	C0057	PP
+PFT0135	Akril Panel 18 turburchak	C0040	W rang
+PFT0135	Akril Panel 18 turburchak	C0060	PP otxod
+PFT0044	PLASMASSA TEGI-100	C0014	rich abs otxod
+PFT0044	PLASMASSA TEGI-100	C0017	rich abs
+PFT0101	Prazrachniy 71	C0071	PC
+PFT0101	Prazrachniy 71	C0074	PC otxod
+PFTS0001	5w-qopqoq	C0231	PC lampa
+PFTS0001	5w-qopqoq	C0234	PC lampa otxod
+PFT0027	Vnut 6 Tagi	C0059	PP drobilka
+PFT0027	Vnut 6 Tagi	C0060	PP otxod
+PFTS0010	60w-qopqoq	C0233	PP lampa otxod
+PFTS0010	60w-qopqoq	C0160	PPT
+PFTS0010	60w-qopqoq	C0232	PP lampa
+PFT0003	Vnut 8 Oyna	C0048	Qora rang
+PFT0003	Vnut 8 Oyna	C0217	Stretch plafon
+PFT0003	Vnut 8 Oyna	C0061	palistrol otxod
+PFT0003	Vnut 8 Oyna	C0064	palistrol
+PFTS0163	50-03 WHITE Rom	C0064	palistrol
+PFTS0163	50-03 WHITE Rom	C0061	palistrol otxod
+PFT0016	Vnut 16 Ramka	C0014	rish abs otxod
+PFT0016	Vnut 16 Ramka	C0017	rich abs
+PFT0027	Vnut 6 Tagi	C0178	Shit rang
+PFT0027	Vnut 6 Tagi	C0053	Kaltsiy
+PFT0052	Du 61 korpus usti stakan	C0069	qora siryo otxod
+PFT0052	Du 61 korpus usti stakan	C0066	qora siryo
+PFTS0020	60w-korpus	C0149	PBT
+PFTS0020	60w-korpus	C0150	PBT otxod
+PFTS0071	50-71 Plafon korpus	PFTS0021	Pet list 475-480 Boyalgan
+PFTS0071	50-71 Plafon korpus	C0182	PVC otxod
+PFTS0029	50-03 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0029	50-03 Plafon korpus	C0213	Pet list otxod
+PFTS0223	30-03 COFFEE Rom	PZ0030	PZ-COFFEE rang
+PFTS0223	30-03 COFFEE Rom	C0061	palistrol otxod
+PFTS0223	30-03 COFFEE Rom	C0261	palistrol qozon
+PFT0193	Vnut 24 Ramka Platinum	C0177	Platinum  rang
+PFTS0212	50-69 Black Rom	C0261	palistrol qozon
+PFT0064	Tarelka 14	C0044	songru abs drobilka
+PFT0064	Tarelka 14	C0056	songru abs otxod
+PFTS0218	40-18 Plafon Korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0218	40-18 Plafon Korpus	C0213	Pet list otxod
+PFT0131	Du57 korpus	C0014	rich abs otxod
+PFT0131	Du57 korpus	C0011	rich abs drobilka
+PFT0131	Du57 korpus	C0017	rich abs
+PFT0037	KRISHKA-100	C0014	rish abs otxod
+PFT0037	KRISHKA-100	C0017	rich abs
+PFTS0020	60w-korpus	LZ0057	AL-KORPUS-60
+PFT0193	Vnut 24 Ramka Platinum	PFT0014	Vnut 24 Ramka
+PFT0193	Vnut 24 Ramka Platinum	C0179	Plastafleks
+PFT0193	Vnut 24 Ramka Platinum	C0186	Rastvaritel
+PFT0047	PARRAK-100 Platinum	C0177	Platinum  rang
+PFT0047	PARRAK-100 Platinum	PFT0048	PARRAK-100
+PFT0047	PARRAK-100 Platinum	C0186	Rastvaritel
+PFTS0164	50-03 BLUE Rom	PZ0025	PZ-BLUE rang
+PFTS0164	50-03 BLUE Rom	C0261	palistrol qozon
+PFTS0164	50-03 BLUE Rom	C0061	palistrol otxod
+PFTS0038	50-15 Plafon korpus	C0213	Pet list otxod
+PFTS0038	50-15 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFT0065	Knopka 15	C0068	songru abs
+PFT0065	Knopka 15	C0056	songru abs otxod
+PFTS0191	50-60 COFFEE Rom	C0261	palistrol qozon
+PFTS0191	50-60 COFFEE Rom	C0061	palistrol otxod
+PFTS0191	50-60 COFFEE Rom	PZ0028	PZ-To'q COFFEE rang
+PFT0207	Vnut 24 Ramka qora	C0266	Qora abs ( Nar Patron)
+PFTS0083	40-14 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0083	40-14 Plafon korpus	C0213	Pet list otxod
+PFTS0072	50-72 Plafon korpus	C0182	PVC otxod
+PFTS0072	50-72 Plafon korpus	PFTS0021	Pet list 475-480 Boyalgan
+PFT0146	Du 50 messi korpus	C0014	rish abs otxod
+PFT0146	Du 50 messi korpus	C0011	rich abs drobilka
+PFT0066	Ramka 17	C0056	songru abs otxod
+PFT0066	Ramka 17	C0068	songru abs
+PFTS0091	40-30 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0091	40-30 Plafon korpus	C0213	Pet list otxod
+PFTS0114	40-01 BLUE Rom	C0261	palistrol qozon
+PFTS0114	40-01 BLUE Rom	C0061	palistrol otxod
+PFTS0114	40-01 BLUE Rom	PZ0025	PZ-BLUE rang
+PFTS0118	40-03 COFFEE Rom	PZ0030	PZ-COFFEE rang
+PFTS0118	40-03 COFFEE Rom	C0261	palistrol qozon
+PFTS0118	40-03 COFFEE Rom	C0061	palistrol otxod
+PFTS0228	50-09 WHITE Rom	C0061	palistrol otxod
+PFTS0228	50-09 WHITE Rom	C0064	palistrol
+PFTS0025	50-45 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0025	50-45 Plafon korpus	C0213	Pet list otxod
+PFTS0136	40-09 COFFEE Rom	C0061	palistrol otxod
+PFTS0136	40-09 COFFEE Rom	PZ0028	PZ-To'q COFFEE rang
+PFTS0136	40-09 COFFEE Rom	C0261	palistrol qozon
+PFT0215	Vnut 16 Tagi qora	C0048	Qora rang
+PFT0215	Vnut 16 Tagi qora	C0053	Kaltsiy
+PFT0215	Vnut 16 Tagi qora	C0059	PP drobilka
+PFT0165	Sir 79	C0074	PC otxod
+PFT0165	Sir 79	C0271	kul rang
+PFT0165	Sir 79	C0071	PC
+PFT0088	Ichi 80	C0014	rish abs otxod
+PFT0088	Ichi 80	C0017	rich abs
+PFT0169	Tarelka 104	C0014	rich abs otxod
+PFT0169	Tarelka 104	C0011	rich abs drobilka
+PFT0159	Tosh keramika 23 (1 talik roz)	C0172	Kaliy
+PFTS0002	7w-qopqoq (10)	C0234	PC lampa otxod
+PFTS0002	7w-qopqoq (10)	C0231	PC lampa
+PFT0159	Tosh keramika 23 (1 talik roz)	C0170	Gulbota
+PFT0159	Tosh keramika 23 (1 talik roz)	C0173	Shira
+PFT0159	Tosh keramika 23 (1 talik roz)	C0169	Shpat (drabirka)
+PFT0159	Tosh keramika 23 (1 talik roz)	C0171	Kvarts
+PFT0099	Knopka 71	C0014	rish abs otxod
+PFT0099	Knopka 71	C0017	rich abs
+PFT0134	Akril Panel 24 turburchak	C0060	PP otxod
+PFT0134	Akril Panel 24 turburchak	C0040	W rang
+PFT0134	Akril Panel 24 turburchak	C0057	PP
+PFT0159	Tosh keramika 23 (1 talik roz)	C0174	Tosh (shar)
+PFT0089	Ichi 81	C0014	rish abs otxod
+PFT0089	Ichi 81	C0017	rich abs
+PFT0133	Vnut 12 Ramka	C0017	rich abs
+PFT0133	Vnut 12 Ramka	C0014	rish abs otxod
+PFT0143	Akril Panel 36 dumaloq	C0040	W rang
+PFT0143	Akril Panel 36 dumaloq	C0057	PP
+PFT0143	Akril Panel 36 dumaloq	C0060	PP otxod
+PFT0081	Sir tosh 23	C0043	aralash otxod
+PFT0081	Sir tosh 23	C0046	aralash otxod drobilka
+PFTS0104	40-43 Plafon korpus	C0213	Pet list otxod
+PFTS0104	40-43 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFT0024	NAr 8 Tagi	C0014	rish abs otxod
+PFT0024	NAr 8 Tagi	C0017	rich abs
+PFT0002	Vnut 2 Oyna	C0217	Stretch plafon
+PFT0002	Vnut 2 Oyna	C0048	Qora rang
+PFT0002	Vnut 2 Oyna	C0061	palistrol otxod
+PFT0002	Vnut 2 Oyna	C0064	palistrol
+PFT0080	Tosh plast 14	C0042	songru tosh abs otxod
+PFT0080	Tosh plast 14	C0045	songru tosh abs
+PFTS0057	50-48 Plafon korpus	C0213	Pet list otxod
+PFTS0057	50-48 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFT0030	Vnut 24 Oyna	C0064	palistrol
+PFT0030	Vnut 24 Oyna	C0217	Stretch plafon
+PFT0030	Vnut 24 Oyna	C0061	palistrol otxod
+PFT0030	Vnut 24 Oyna	C0048	Qora rang
+PFT0086	Churvaqa 72	C0074	PC otxod
+PFT0086	Churvaqa 72	C0071	PC
+PFTS0180	50-02 COFFEE Rom	PZ0030	PZ-COFFEE rang
+PFTS0180	50-02 COFFEE Rom	C0061	palistrol otxod
+PFTS0180	50-02 COFFEE Rom	C0261	palistrol qozon
+PFT0023	Nar 6 Tagi	C0014	rish abs otxod
+PFT0023	Nar 6 Tagi	C0017	rich abs
+PFT0023	Nar 6 Tagi	C0011	rich abs drobilka
+PFTS0224	30-03 WHITE Rom	C0064	palistrol
+PFTS0224	30-03 WHITE Rom	C0061	palistrol otxod
+PFTS0195	50-61 WHITE Rom	C0061	palistrol otxod
+PFTS0195	50-61 WHITE Rom	C0064	palistrol
+PFTS0110	40-49 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0110	40-49 Plafon korpus	C0213	Pet list otxod
+PFT0151	36 Driver korpus Dusel YTM	C0047	Kraska
+PFT0151	36 Driver korpus Dusel YTM	PFT0056	Drayver korpus
+PFT0151	36 Driver korpus Dusel YTM	C0186	Rastvaritel
+PFTS0193	50-60 BLUE Rom	C0061	palistrol otxod
+PFTS0193	50-60 BLUE Rom	C0261	palistrol qozon
+PFT0051	Du 64 korpus	C0066	qora siryo
+PFT0051	Du 64 korpus	C0069	qora siryo otxod
+PFT0174	pr 24-1 qopqoq	C0057	PP
+PFT0174	pr 24-1 qopqoq	C0040	W rang
+PFT0174	pr 24-1 qopqoq	C0060	PP otxod
+PFT0022	Nar 12 Tagi	C0017	rich abs
+PFT0022	Nar 12 Tagi	C0014	rish abs otxod
+PFT0022	Nar 12 Tagi	C0011	rich abs drobilka
+PFTS0095	40-34 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0095	40-34 Plafon korpus	C0213	Pet list otxod
+PFTS0039	50-24 Plafon korpus	C0213	Pet list otxod
+PFTS0039	50-24 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0051	50-39 Plafon korpus	C0213	Pet list otxod
+PFTS0051	50-39 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0090	40-29 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0090	40-29 Plafon korpus	C0213	Pet list otxod
+PFTS0064	50-64 Plafon korpus	C0182	PVC otxod
+PFTS0064	50-64 Plafon korpus	PFTS0021	Pet list 475-480 Boyalgan
+PFT0045	PLASMASSA TEGI-150	C0014	rish abs otxod
+PFT0045	PLASMASSA TEGI-150	C0017	rich abs
+PFTS0048	50-33 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0048	50-33 Plafon korpus	C0213	Pet list otxod
+PFTS0074	40-02 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0074	40-02 Plafon korpus	C0213	Pet list otxod
+PFTS0177	50-01 WHITE Rom	C0064	palistrol
+PFTS0177	50-01 WHITE Rom	C0061	palistrol otxod
+PFT0211	Vnut 12 Ramka qora	C0266	Qora abs ( Nar Patron)
+PFT0210	Nar 16 Tagi qora	C0266	Qora abs ( Nar Patron)
+PFT0071	Prazrachniy 22	C0043	aralash otxod
+PFT0071	Prazrachniy 22	C0046	aralash otxod drobilka
+PFTS0178	50-01 BLUE Rom	C0261	palistrol qozon
+PFTS0178	50-01 BLUE Rom	PZ0025	PZ-BLUE rang
+PFTS0178	50-01 BLUE Rom	C0061	palistrol otxod
+PFTS0014	15w-korpus	LZ0008	AL-KORPUS-15
+PFTS0014	15w-korpus	C0150	PBT otxod
+PFTS0014	15w-korpus	C0250	PBT qozon
+PFT0144	Akril Panel Nar 48  turburchak	C0057	PP
+PFT0144	Akril Panel Nar 48  turburchak	C0060	PP otxod
+PFT0144	Akril Panel Nar 48  turburchak	C0040	W rang
+PFT0213	Vnut 12 Tagi qora	C0059	PP drobilka
+PFT0213	Vnut 12 Tagi qora	C0053	Kaltsiy
+PFT0213	Vnut 12 Tagi qora	C0048	Qora rang
+PFT0069	Ramka 16	C0068	songru abs
+PFT0069	Ramka 16	C0056	songru abs otxod
+PFTS0093	40-32 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0093	40-32 Plafon korpus	C0213	Pet list otxod
+PFTS0030	50-04 Plafon korpus	C0213	Pet list otxod
+PFTS0030	50-04 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0078	40-06 Plafon korpus	C0213	Pet list otxod
+PFTS0078	40-06 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFT0194	Nar 8 Tagi platinum	C0179	Plastafleks
+PFT0194	Nar 8 Tagi platinum	C0186	Rastvaritel
+PFT0194	Nar 8 Tagi platinum	C0177	Platinum  rang
+PFT0194	Nar 8 Tagi platinum	PFT0024	NAr 8 Tagi
+PFTS0181	50-02 WHITE Rom	C0064	palistrol
+PFTS0181	50-02 WHITE Rom	C0061	palistrol otxod
+PFTS0075	40-03 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0075	40-03 Plafon korpus	C0213	Pet list otxod
+PFT0152	36 Driver korpus Veral YTM	PFT0056	Drayver korpus
+PFT0152	36 Driver korpus Veral YTM	C0186	Rastvaritel
+PFT0152	36 Driver korpus Veral YTM	C0047	Kraska
+PFTS0182	50-04 COFFEE Rom	PZ0028	PZ-To'q COFFEE rang
+PFTS0182	50-04 COFFEE Rom	C0261	palistrol qozon
+PFTS0182	50-04 COFFEE Rom	C0061	palistrol otxod
+PFTS0045	50-30 Plafon korpus	C0213	Pet list otxod
+PFTS0045	50-30 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFT0040	pr 24-2 korpusi tagi	C0072	PP drobilka sergili
+PFT0040	pr 24-2 korpusi tagi	C0060	PP otxod
+PFT0040	pr 24-2 korpusi tagi	C0053	Kaltsiy
+PFT0040	pr 24-2 korpusi tagi	C0052	Ko'k rang
+PFT0125	Ramka 67	C0014	rish abs otxod
+PFT0125	Ramka 67	C0017	rich abs
+PFT0190	Vnut 8 Ramka Gold	PFT0017	Vnut 8 Ramka
+PFT0190	Vnut 8 Ramka Gold	C0186	Rastvaritel
+PFTS0120	40-03 BLUE Rom	C0061	palistrol otxod
+PFTS0120	40-03 BLUE Rom	PZ0025	PZ-BLUE rang
+PFTS0120	40-03 BLUE Rom	C0261	palistrol qozon
+PFT0190	Vnut 8 Ramka Gold	C0175	Gold rang
+PFT0190	Vnut 8 Ramka Gold	C0179	Plastafleks
+PFTS0082	40-13 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0082	40-13 Plafon korpus	C0213	Pet list otxod
+PFT0054	Du 61 korpus tagi	C0266	Qora abs ( Nar Patron)
+PFT0090	Ichi 82	C0017	rich abs
+PFT0090	Ichi 82	C0014	rish abs otxod
+PFT0140	Akril Panel 18 dumaloq	C0057	PP
+PFT0140	Akril Panel 18 dumaloq	C0060	PP otxod
+PFT0140	Akril Panel 18 dumaloq	C0040	W rang
+PFT0155	8-18 Driver korpus Dusel YTM	C0047	Kraska
+PFT0155	8-18 Driver korpus Dusel YTM	PFT0056	Drayver korpus
+PFT0155	8-18 Driver korpus Dusel YTM	C0186	Rastvaritel
+PFT0085	Churvaqa 71	C0074	PC otxod
+PFT0085	Churvaqa 71	C0071	PC
+PFT0204	Nar 36 Tagi	C0017	rich abs
+PFTS0003	12w-qopqoq	C0231	PC lampa
+PFTS0003	12w-qopqoq	C0234	PC lampa otxod
+PFT0056	Drayver korpus	C0041	Oq rang
+PFT0056	Drayver korpus	C0259	PC drobilka ko'cha otxod
+PFT0056	Drayver korpus	C0258	PC drobilka ko'cha
+PFT0028	Vnut 2 Tagi	C0059	PP drobilka
+PFT0028	Vnut 2 Tagi	C0178	Shit rang
+PFT0028	Vnut 2 Tagi	C0053	Kaltsiy
+PFT0028	Vnut 2 Tagi	C0060	PP otxod
+PFT0039	ps 24-2 korpusi tagi	C0072	PP drobilka sergili
+PFT0039	ps 24-2 korpusi tagi	C0053	Kaltsiy
+PFT0039	ps 24-2 korpusi tagi	C0060	PP otxod
+PFT0039	ps 24-2 korpusi tagi	C0052	Ko'k rang
+PFT0007	KRISHKA-150	C0014	rish abs otxod
+PFT0007	KRISHKA-150	C0017	rich abs
+PFT0031	Vnut 8 Tagi	C0060	PP otxod
+PFTS0102	40-41 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0102	40-41 Plafon korpus	C0213	Pet list otxod
+PFT0031	Vnut 8 Tagi	C0059	PP drobilka
+PFT0031	Vnut 8 Tagi	C0178	Shit rang
+PFT0031	Vnut 8 Tagi	C0053	Kaltsiy
+PFTS0179	50-01 RED Rom	C0061	palistrol otxod
+PFTS0179	50-01 RED Rom	C0261	palistrol qozon
+PFTS0179	50-01 RED Rom	PZ0031	PZ-RED rang
+PFT0168	Ramka 103	C0017	rich abs
+PFT0168	Ramka 103	C0014	rich abs otxod
+PFTS0027	50-01 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0027	50-01 Plafon korpus	C0213	Pet list otxod
+PFTS0094	40-33 Plafon korpus	C0213	Pet list otxod
+PFTS0094	40-33 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0061	50-61 Plafon korpus	C0182	PVC otxod
+PFTS0061	50-61 Plafon korpus	PFTS0021	Pet list 475-480 Boyalgan
+PFTS0063	50-63 Plafon korpus	C0182	PVC otxod
+PFTS0063	50-63 Plafon korpus	PFTS0021	Pet list 475-480 Boyalgan
+PFTS0049	50-34 Plafon korpus	C0213	Pet list otxod
+PFTS0049	50-34 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0183	50-04 WHITE Rom	C0064	palistrol
+PFTS0183	50-04 WHITE Rom	C0061	palistrol otxod
+PFTS0065	50-65 Plafon korpus	PFTS0021	Pet list 475-480 Boyalgan
+PFTS0065	50-65 Plafon korpus	C0182	PVC otxod
+PFTS0081	40-11 Plafon korpus	C0213	Pet list otxod
+PFTS0081	40-11 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFT0148	Du 51 carlos korpus	C0014	rish abs otxod
+PFT0148	Du 51 carlos korpus	C0011	rich abs drobilka
+PFT0148	Du 51 carlos korpus	C0017	rich abs
+PFT0195	Nar 8 Tagi Gold	PFT0024	NAr 8 Tagi
+PFT0195	Nar 8 Tagi Gold	C0186	Rastvaritel
+PFT0195	Nar 8 Tagi Gold	C0175	Gold rang
+PFT0195	Nar 8 Tagi Gold	C0179	Plastafleks
+PFTS0055	50-43 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0055	50-43 Plafon korpus	C0213	Pet list otxod
+PFT0126	Ramka 68	C0014	rish abs otxod
+PFT0126	Ramka 68	C0017	rich abs
+PFT0096	Kiyim 72	C0074	PC otxod
+PFT0096	Kiyim 72	C0071	PC
+PFTS0047	50-32 Plafon korpus	C0213	Pet list otxod
+PFT0106	Ramka 107	C0017	rich abs
+PFT0106	Ramka 107	C0014	rish abs otxod
+PFTS0103	40-42 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0103	40-42 Plafon korpus	C0213	Pet list otxod
+PFTS0031	50-05 Plafon korpus	C0213	Pet list otxod
+PFTS0031	50-05 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0047	50-32 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFT0199	KRISHKA-100 black	C0266	Qora abs ( Nar Patron)
+PFTS0176	50-01 COFFEE Rom	PZ0030	PZ-COFFEE rang
+PFTS0176	50-01 COFFEE Rom	C0261	palistrol qozon
+PFTS0176	50-01 COFFEE Rom	C0061	palistrol otxod
+PFT0078	Ichi 25	C0056	songru abs otxod
+PFT0078	Ichi 25	C0068	songru abs
+PFT0021	Nar 24 Tagi	C0014	rish abs otxod
+PFT0021	Nar 24 Tagi	C0017	rich abs
+PFTS0107	40-46 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0043	50-28 Plafon korpus	C0213	Pet list otxod
+PFTS0043	50-28 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFT0068	Tarelka 16	C0056	songru abs otxod
+PFTS0015	18w-korpus	C0150	PBT otxod
+PFTS0015	18w-korpus	C0250	PBT qozon
+PFTS0015	18w-korpus	LZ0003	AL-KORPUS-18
+PFTS0222	40-08 Plafon Korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0222	40-08 Plafon Korpus	C0213	Pet list otxod
+PFTS0107	40-46 Plafon korpus	C0213	Pet list otxod
+PFTS0022	Pet list 465-470 Boyalgan	PZ0106	PZ-Pet list 465-470
+PFT0112	Tosh plast 25	C0042	songru tosh abs otxod
+PFT0112	Tosh plast 25	C0045	songru tosh abs
+PFT0093	Ichi 86	C0014	rish abs otxod
+PFT0093	Ichi 86	C0017	rich abs
+PFT0100	Knopka 72	C0014	rish abs otxod
+PFT0100	Knopka 72	C0017	rich abs
+PFTS0058	50-49 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0058	50-49 Plafon korpus	C0213	Pet list otxod
+PFT0188	RICH Ramka 4	C0017	rich abs
+PFT0188	RICH Ramka 4	C0014	rich abs otxod
+PFT0214	Vnut 24 Tagi qora	C0048	Qora rang
+PFT0214	Vnut 24 Tagi qora	C0059	PP drobilka
+PFT0214	Vnut 24 Tagi qora	C0053	Kaltsiy
+PFT0130	Du 56 korpus	C0014	rich abs otxod
+PFT0130	Du 56 korpus	C0017	rich abs
+PFT0130	Du 56 korpus	C0011	rich abs drobilka
+PFTS0119	40-03 WHITE Rom	C0061	palistrol otxod
+PFT0142	Akril Panel Vnut 48 dumaloq	C0060	PP otxod
+PFT0142	Akril Panel Vnut 48 dumaloq	C0040	W rang
+PFT0142	Akril Panel Vnut 48 dumaloq	C0057	PP
+PFT0042	PLASMASSA TEGI-100 Gold	C0175	Gold rang
+PFT0042	PLASMASSA TEGI-100 Gold	PFT0044	PLASMASSA TEGI-100
+PFT0042	PLASMASSA TEGI-100 Gold	C0186	Rastvaritel
+PFT0068	Tarelka 16	C0044	songru abs drobilka
+PFT0063	Kiyim 14	C0046	aralash otxod drobilka
+PFT0063	Kiyim 14	C0043	aralash otxod
+PFTS0197	50-61 RED Rom	C0061	palistrol otxod
+PFTS0197	50-61 RED Rom	C0261	palistrol qozon
+PFTS0119	40-03 WHITE Rom	C0064	palistrol
+PFT0150	24 Driver korpus Veral YTM	PFT0056	Drayver korpus
+PFT0150	24 Driver korpus Veral YTM	C0186	Rastvaritel
+PFT0150	24 Driver korpus Veral YTM	C0047	Kraska
+PFTS0024	50-44 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0024	50-44 Plafon korpus	C0213	Pet list otxod
+PFT0050	Du 63 korpus	C0070	oq siryo
+PFT0162	Sir plast 23	C0045	songru tosh abs
+PFT0061	Ramka 14	C0056	songru abs otxod
+PFT0061	Ramka 14	C0068	songru abs
+PFTS0190	50-60 RED Rom	C0061	palistrol otxod
+PFTS0190	50-60 RED Rom	C0261	palistrol qozon
+PFTS0056	50-47 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0056	50-47 Plafon korpus	C0213	Pet list otxod
+PFT0158	Ichi 69	C0166	PC drobilka
+PFT0158	Ichi 69	C0048	Qora rang
+PFT0171	Patron plast 66	C0053	Kaltsiy
+PFT0171	Patron plast 66	C0060	PP otxod
+PFT0171	Patron plast 66	C0041	Oq rang
+PFT0171	Patron plast 66	C0165	PP sibur
+PFTS0239	50-10 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0239	50-10 Plafon korpus	C0213	Pet list otxod
+PFTS0106	40-45 Plafon korpus	C0213	Pet list otxod
+PFTS0106	40-45 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0109	40-48 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0109	40-48 Plafon korpus	C0213	Pet list otxod
+PFTS0216	40-17 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0216	40-17 Plafon korpus	C0213	Pet list otxod
+PFT0001	Messi churvaqa	C0046	aralash otxod drobilka
+PFT0001	Messi churvaqa	C0043	aralash otxod
+PFTS0226	40-32 Plafon korpus VERAL	PZ0104	PZ-Pet list 365-370
+PFTS0073	40-01 Plafon korpus	C0213	Pet list otxod
+PFTS0073	40-01 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFT0008	KRISHKA-100 Gold	C0186	Rastvaritel
+PFT0008	KRISHKA-100 Gold	C0179	Plastafleks
+PFT0008	KRISHKA-100 Gold	C0175	Gold rang
+PFT0008	KRISHKA-100 Gold	PFT0037	KRISHKA-100
+PFTS0023	Pet list 365-370 Boyalgan	PZ0104	PZ-Pet list 365-370
+PFT0156	8-18 Driver korpus Veral YTM	C0186	Rastvaritel
+PFT0156	8-18 Driver korpus Veral YTM	PFT0056	Drayver korpus
+PFT0156	8-18 Driver korpus Veral YTM	C0047	Kraska
+PFT0091	Ichi 83	C0017	rich abs
+PFT0091	Ichi 83	C0014	rish abs otxod
+PFT0041	PLASMASSA TEGI-100 Platinum	C0186	Rastvaritel
+PFT0041	PLASMASSA TEGI-100 Platinum	C0177	Platinum  rang
+PFT0041	PLASMASSA TEGI-100 Platinum	PFT0044	PLASMASSA TEGI-100
+PFT0103	Ramka 101	C0011	rich abs drobilka
+PFT0103	Ramka 101	C0014	rish abs otxod
+PFT0103	Ramka 101	C0017	rich abs
+PFTS0041	50-26 Plafon korpus	C0213	Pet list otxod
+PFTS0041	50-26 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFT0034	Vnut 24 Tagi	C0053	Kaltsiy
+PFT0034	Vnut 24 Tagi	C0059	PP drobilka
+PFT0034	Vnut 24 Tagi	C0178	Shit rang
+PFT0034	Vnut 24 Tagi	C0060	PP otxod
+PFT0132	Du52 pele korpus	C0017	rich abs
+PFT0132	Du52 pele korpus	C0014	rich abs otxod
+PFT0011	P/L Ramka 50 To'rtburchak 72 W	C0061	palistrol otxod
+PFT0011	P/L Ramka 50 To'rtburchak 72 W	C0064	palistrol
+PFT0153	48 Driver korpus Dusel YTM	C0186	Rastvaritel
+PFT0153	48 Driver korpus Dusel YTM	PFT0056	Drayver korpus
+PFT0153	48 Driver korpus Dusel YTM	C0047	Kraska
+PFT0015	Nar 2 Tagi	C0017	rich abs
+PFTS0226	40-32 Plafon korpus VERAL	C0213	Pet list otxod
+PFTS0034	50-09 Plafon korpus	C0213	Pet list otxod
+PFTS0034	50-09 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFT0015	Nar 2 Tagi	C0014	rish abs otxod
+PFT0189	RICH Ramka 5	C0017	rich abs
+PFTS0079	40-07 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0079	40-07 Plafon korpus	C0213	Pet list otxod
+PFTS0088	40-27 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0088	40-27 Plafon korpus	C0213	Pet list otxod
+PFT0060	Veral 18 korpus	C0063	yangi qora siryo
+PFT0060	Veral 18 korpus	C0062	yangi qora siryo otxod
+PFT0120	Ramka DL-BI3	C0072	PP drobilka sergili
+PFT0189	RICH Ramka 5	C0014	rich abs otxod
+PFT0159	Tosh keramika 23 (1 talik roz)	PFE0213	Tosh loy (disk)
+PFT0120	Ramka DL-BI3	C0053	Kaltsiy
+PFT0120	Ramka DL-BI3	C0041	Oq rang
+PFT0120	Ramka DL-BI3	C0060	PP otxod
+PFTS0053	50-41 Plafon korpus	C0213	Pet list otxod
+PFTS0053	50-41 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0068	50-68 Plafon korpus	C0182	PVC otxod
+PFTS0068	50-68 Plafon korpus	PFTS0021	Pet list 475-480 Boyalgan
+PFT0159	Tosh keramika 23 (1 talik roz)	PFE0304	Tosh keramika 23 (1 talik roz) tozalash
+PFT0097	Knopka 101	C0017	rich abs
+PFT0097	Knopka 101	C0014	rish abs otxod
+PFTS0080	40-09 Plafon korpus	C0213	Pet list otxod
+PFTS0080	40-09 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFT0082	Ichi 23	C0056	songru abs otxod
+PFT0082	Ichi 23	C0068	songru abs
+PFT0198	PARRAK-100 black	C0266	Qora abs ( Nar Patron)
+PFTS0089	40-28 Plafon korpus	C0213	Pet list otxod
+PFTS0089	40-28 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFT0170	Ramka 105	C0014	rich abs otxod
+PFT0170	Ramka 105	C0017	rich abs
+PFTS0105	40-44 Plafon korpus	C0213	Pet list otxod
+PFTS0004	15w-qopqoq	C0231	PC lampa
+PFTS0004	15w-qopqoq	C0234	PC lampa otxod
+PFTS0087	40-26 Plafon korpus	C0213	Pet list otxod
+PFTS0087	40-26 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0105	40-44 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0021	Pet list 475-480 Boyalgan	PZ0105	PZ-Pet list 475-480
+PFT0009	KRISHKA-100 Silver	C0186	Rastvaritel
+PFT0009	KRISHKA-100 Silver	C0176	Silver  rang
+PFT0009	KRISHKA-100 Silver	C0179	Plastafleks
+PFT0009	KRISHKA-100 Silver	PFT0037	KRISHKA-100
+PFT0121	Ramka DL-BI4	C0053	Kaltsiy
+PFT0121	Ramka DL-BI4	C0041	Oq rang
+PFT0121	Ramka DL-BI4	C0072	PP drobilka sergili
+PFT0121	Ramka DL-BI4	C0060	PP otxod
+PFTS0117	40-02 WHITE Rom	C0064	palistrol
+PFTS0117	40-02 WHITE Rom	C0061	palistrol otxod
+PFT0205	Vnut 36 Oyna	C0217	Stretch plafon
+PFT0205	Vnut 36 Oyna	C0064	palistrol
+PFT0205	Vnut 36 Oyna	C0048	Qora rang
+PFTS0101	40-40 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0101	40-40 Plafon korpus	C0213	Pet list otxod
+PFTS0240	50-12 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0240	50-12 Plafon korpus	C0213	Pet list otxod
+PFTS0026	50-46 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0026	50-46 Plafon korpus	C0213	Pet list otxod
+PFT0020	Nar 16 Tagi	C0014	rish abs otxod
+PFT0020	Nar 16 Tagi	C0017	rich abs
+PFTS0077	40-05 Plafon korpus	C0213	Pet list otxod
+PFTS0077	40-05 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0137	40-09 WHITE Rom	C0064	palistrol
+PFTS0137	40-09 WHITE Rom	C0061	palistrol otxod
+PFTS0116	40-02 COFFEE Rom	PZ0030	PZ-COFFEE rang
+PFTS0116	40-02 COFFEE Rom	C0061	palistrol otxod
+PFTS0116	40-02 COFFEE Rom	C0261	palistrol qozon
+PFTS0131	40-06 WHITE Rom	C0061	palistrol otxod
+PFTS0131	40-06 WHITE Rom	C0064	palistrol
+PFTS0054	50-42 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0054	50-42 Plafon korpus	C0213	Pet list otxod
+PFT0192	Vnut 24 Ramka Gold	C0175	Gold rang
+PFT0192	Vnut 24 Ramka Gold	C0186	Rastvaritel
+PFT0192	Vnut 24 Ramka Gold	C0179	Plastafleks
+PFT0192	Vnut 24 Ramka Gold	PFT0014	Vnut 24 Ramka
+PFTS0046	50-31 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0046	50-31 Plafon korpus	C0213	Pet list otxod
+PFTS0052	50-40 Plafon korpus	PFTS0022	Pet list 465-470 Boyalgan
+PFTS0052	50-40 Plafon korpus	C0213	Pet list otxod
+PFTS0018	40w-korpus	C0149	PBT
+PFTS0018	40w-korpus	LZ0059	AL-KORPUS-40
+PFTS0018	40w-korpus	C0150	PBT otxod
+PFT0035	Vnut 12 Tagi	C0053	Kaltsiy
+PFT0035	Vnut 12 Tagi	C0178	Shit rang
+PFT0035	Vnut 12 Tagi	C0059	PP drobilka
+PFT0035	Vnut 12 Tagi	C0060	PP otxod
+PFT0185	Vnut 12 Ramka Platinum	C0186	Rastvaritel
+PFT0185	Vnut 12 Ramka Platinum	PFT0133	Vnut 12 Ramka
+PFT0185	Vnut 12 Ramka Platinum	C0179	Plastafleks
+PFT0185	Vnut 12 Ramka Platinum	C0177	Platinum  rang
+PFT0084	Churvaqa 96	C0074	PC otxod
+PFT0084	Churvaqa 96	C0071	PC
+PFT0154	48 Driver korpus Veral YTM	C0186	Rastvaritel
+PFT0154	48 Driver korpus Veral YTM	PFT0056	Drayver korpus
+PFT0154	48 Driver korpus Veral YTM	C0047	Kraska
+PFT0079	Ramka 35	C0056	songru abs otxod
+PFT0079	Ramka 35	C0068	songru abs
+PFT0122	vilka 59	C0157	artel abs
+PFT0122	vilka 59	C0262	Rich artel aralash otxod
+PFT0122	vilka 59	C0017	rich abs
+PFTS0108	40-47 Plafon korpus	C0213	Pet list otxod
+PFTS0108	40-47 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFT0010	KRISHKA-100 Platinum	PFT0037	KRISHKA-100
+PFT0010	KRISHKA-100 Platinum	C0179	Plastafleks
+PFT0010	KRISHKA-100 Platinum	C0186	Rastvaritel
+PFT0010	KRISHKA-100 Platinum	C0177	Platinum  rang
+PFTS0098	40-37 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFTS0098	40-37 Plafon korpus	C0213	Pet list otxod
+PFTS0096	40-35 Plafon korpus	C0213	Pet list otxod
+PFTS0096	40-35 Plafon korpus	PFTS0023	Pet list 365-370 Boyalgan
+PFT0006	Vnut 6 Oyna	C0064	palistrol
+PFT0114	Tosh plast 24	C0039	songru tosh abs drobilka
+PFT0114	Tosh plast 24	C0045	songru tosh abs
+PFT0114	Tosh plast 24	C0042	songru tosh abs otxod
+PFT0149	24 Driver korpus Dusel YTM	C0047	Kraska
+PFT0149	24 Driver korpus Dusel YTM	PFT0056	Drayver korpus
+PFT0149	24 Driver korpus Dusel YTM	C0186	Rastvaritel
+PFT0006	Vnut 6 Oyna	C0217	Stretch plafon
+PFT0006	Vnut 6 Oyna	C0048	Qora rang
+PFT0006	Vnut 6 Oyna	C0061	palistrol otxod
+PFTS0256	40-09 COFFEE Gul	C0261	palistrol qozon
+PFTS0256	40-09 COFFEE Gul	PZ0028	PZ-To'q COFFEE rang
+PFTS0255	40-05 WHITE Gul	C0061	palistrol otxod
+PFTS0255	40-05 WHITE Gul	C0064	palistrol
+PFTS0249	40-01 WHITE Gul	C0061	palistrol otxod
+PFTS0250	40-02 COFFEE Gul	PZ0030	PZ-COFFEE rang
+PFTS0250	40-02 COFFEE Gul	C0061	palistrol otxod
+PFTS0250	40-02 COFFEE Gul	C0261	palistrol qozon
+PFTS0264	40-36 rom	C0017	rich abs
+PFTS0264	40-36 rom	C0014	rich abs otxod
+PFTS0256	40-09 COFFEE Gul	C0061	palistrol otxod
+PFTS0249	40-01 WHITE Gul	C0064	palistrol
+PFTS0253	40-05 COFFEE Gul	C0064	palistrol
+PFTS0253	40-05 COFFEE Gul	C0061	palistrol otxod
+PFTS0253	40-05 COFFEE Gul	PZ0030	PZ-COFFEE rang
+PFTS0245	40-01 BLUE Gul	PZ0025	PZ-BLUE rang
+PFTS0247	40-01 Oq cheti Gulli	C0061	palistrol otxod
+PFTS0245	40-01 BLUE Gul	C0064	palistrol
+PFTS0251	40-02 WHITE Gul	C0064	palistrol
+PFTS0246	40-01 COFFEE Gul	C0064	palistrol
+PFTS0246	40-01 COFFEE Gul	PZ0030	PZ-COFFEE rang
+PFTS0251	40-02 WHITE Gul	C0061	palistrol otxod
+PFTS0245	40-01 BLUE Gul	C0061	palistrol otxod
+PFTS0246	40-01 COFFEE Gul	C0061	palistrol otxod
+PFTS0250	40-02 COFFEE Gul	C0064	palistrol
+PFTS0250	40-02 COFFEE Gul	C0058	palistrol otxod drobilka
+PFTS0248	40-01 RED Gul	PZ0031	PZ-RED rang
+PFTS0248	40-01 RED Gul	C0061	palistrol otxod
+PFTS0248	40-01 RED Gul	C0064	palistrol
+PFTS0247	40-01 Oq cheti Gulli	C0064	palistrol
+PFTS0256	40-09 COFFEE Gul	C0064	palistrol
+PFTS0256	40-09 COFFEE Gul	C0058	palistrol otxod drobilka
+PFTS0243	30-03 red Rom	PZ0031	PZ-RED rang
+PFTS0243	30-03 red Rom	C0058	palistrol otxod drobilka
+PFTS0243	30-03 red Rom	C0064	palistrol
+PFTS0243	30-03 red Rom	C0061	palistrol otxod
+PFTS0243	30-03 red Rom	C0261	palistrol qozon
+PFT0203	40-35 Ramka Silver	C0010	vanna abs
+PFT0203	40-35 Ramka Silver	C0043	aralash otxod
+PFT0203	40-35 Ramka Silver	C0186	Rastvaritel
+PFT0203	40-35 Ramka Silver	C0179	Plastafleks
+PFT0203	40-35 Ramka Silver	C0013	vanna abs otxod
+PFT0203	40-35 Ramka Silver	C0176	Silver  rang
+PFTS0241	30-03 blue Rom	C0261	palistrol qozon
+PFTS0241	30-03 blue Rom	C0061	palistrol otxod
+PFTS0241	30-03 blue Rom	C0058	palistrol otxod drobilka
+PFTS0241	30-03 blue Rom	C0064	palistrol
+PFTS0241	30-03 blue Rom	PZ0025	PZ-BLUE rang
+PFT0201	40-35 Ramka Gold	C0043	aralash otxod
+PFT0201	40-35 Ramka Gold	C0010	vanna abs
+PFT0201	40-35 Ramka Gold	C0013	vanna abs otxod
+PFT0201	40-35 Ramka Gold	C0186	Rastvaritel
+PFT0201	40-35 Ramka Gold	C0179	Plastafleks
+PFT0201	40-35 Ramka Gold	C0175	Gold rang
+PFTS0232	40-09 blue Rom	C0058	palistrol otxod drobilka
+PFTS0232	40-09 blue Rom	C0261	palistrol qozon
+PFTS0232	40-09 blue Rom	C0061	palistrol otxod
+PFTS0232	40-09 blue Rom	C0064	palistrol
+PFTS0232	40-09 blue Rom	PZ0025	PZ-BLUE rang
+PFTS0231	40-09 Red Rom	C0058	palistrol otxod drobilka
+PFTS0231	40-09 Red Rom	C0261	palistrol qozon
+PFTS0231	40-09 Red Rom	PZ0031	PZ-RED rang
+PFTS0231	40-09 Red Rom	C0061	palistrol otxod
+PFTS0231	40-09 Red Rom	C0064	palistrol
+PFT0200	40-35 Ramka Platinum	C0179	Plastafleks
+PFT0200	40-35 Ramka Platinum	C0013	vanna abs otxod
+PFT0200	40-35 Ramka Platinum	C0010	vanna abs
+PFT0200	40-35 Ramka Platinum	C0186	Rastvaritel
+PFT0200	40-35 Ramka Platinum	C0043	aralash otxod
+PFT0200	40-35 Ramka Platinum	C0177	Platinum  rang
+PFTS0236	50-06 white Rom	C0061	palistrol otxod
+PFTS0236	50-06 white Rom	C0064	palistrol
+PFT0202	40-35 Ramka Black	C0246	Black rang
+PFT0202	40-35 Ramka Black	C0013	vanna abs otxod
+PFT0202	40-35 Ramka Black	C0043	aralash otxod
+PFT0202	40-35 Ramka Black	C0186	Rastvaritel
+PFT0202	40-35 Ramka Black	C0010	vanna abs
+PFT0202	40-35 Ramka Black	C0179	Plastafleks
+PFTS0235	50-06 coffee Rom	C0061	palistrol otxod
+PFTS0235	50-06 coffee Rom	PZ0028	PZ-To'q COFFEE rang
+PFTS0235	50-06 coffee Rom	C0261	palistrol qozon
+PFTS0235	50-06 coffee Rom	C0064	palistrol
+PFTS0235	50-06 coffee Rom	C0058	palistrol otxod drobilka

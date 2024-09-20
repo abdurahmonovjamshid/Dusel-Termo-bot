@@ -1,0 +1,210 @@
+Itemcode	Name
+PFT0031	Vnut 8 Tagi
+PFT0191	Vnut 8 Ramka Platinum
+PFT0190	Vnut 8 Ramka Gold
+PFT0017	Vnut 8 Ramka
+PFT0003	Vnut 8 Oyna
+PFT0027	Vnut 6 Tagi
+PFT0025	Vnut 6 Ramka
+PFT0006	Vnut 6 Oyna
+PFT0026	Vnut 4 Tagi
+PFT0033	Vnut 4 Ramka
+PFT0005	Vnut 4 Oyna
+PFT0206	Vnut 36 Ramka
+PFT0205	Vnut 36 Oyna
+PFT0214	Vnut 24 Tagi qora
+PFT0034	Vnut 24 Tagi
+PFT0207	Vnut 24 Ramka qora
+PFT0193	Vnut 24 Ramka Platinum
+PFT0192	Vnut 24 Ramka Gold
+PFT0014	Vnut 24 Ramka
+PFT0030	Vnut 24 Oyna
+PFT0028	Vnut 2 Tagi
+PFT0032	Vnut 2 Ramka
+PFT0002	Vnut 2 Oyna
+PFT0215	Vnut 16 Tagi qora
+PFT0036	Vnut 16 Tagi
+PFT0209	Vnut 16 Ramka qora
+PFT0016	Vnut 16 Ramka
+PFT0029	Vnut 16 Oyna
+PFT0213	Vnut 12 Tagi qora
+PFT0035	Vnut 12 Tagi
+PFT0211	Vnut 12 Ramka qora
+PFT0185	Vnut 12 Ramka Platinum
+PFT0184	Vnut 12 Ramka Gold
+PFT0133	Vnut 12 Ramka
+PFT0004	Vnut 12 Oyna
+PFT0123	vilka 60
+PFT0124	vilka 59 60 ichi
+PFT0122	vilka 59
+PFT0053	Veral 40 Patron usti stakan
+PFT0058	Veral 19 korpus
+PFT0060	Veral 18 korpus
+PFT0059	Ve40 Patron tagi
+PFT0116	Tosh plast 81
+PFT0164	Tosh plast 79
+PFT0115	Tosh plast 71
+PFT0112	Tosh plast 25
+PFT0114	Tosh plast 24
+PFT0113	Tosh plast 23
+PFT0072	Tosh plast 21
+PFT0080	Tosh plast 14
+PFT0161	Tosh keramika 42
+PFT0160	Tosh keramika 24 (2 talik roz)
+PFT0159	Tosh keramika 23 (1 talik roz)
+PFT0216	Tosh brak 42
+PFT0182	Tosh brak 24
+PFT0183	Tosh brak 23
+PFT0067	Tarelka 17
+PFT0068	Tarelka 16
+PFT0064	Tarelka 14
+PFT0169	Tarelka 104
+PFT0111	Tarelka 101
+PFT0081	Sir tosh 23
+PFT0162	Sir plast 23
+PFT0165	Sir 79
+PFT0189	RICH Ramka 5
+PFT0188	RICH Ramka 4
+PFT0187	RICH Ramka 3
+PFT0186	RICH Ramka 2
+PFT0121	Ramka DL-BI4
+PFT0120	Ramka DL-BI3
+PFT0119	Ramka DL-BI2
+PFT0110	Ramka 81
+PFT0109	Ramka 71
+PFT0157	Ramka 69
+PFT0126	Ramka 68
+PFT0125	Ramka 67
+PFT0076	Ramka 46
+PFT0079	Ramka 35
+PFT0108	Ramka 27
+PFT0083	Ramka 24
+PFT0077	Ramka 21
+PFT0066	Ramka 17
+PFT0069	Ramka 16
+PFT0061	Ramka 14
+PFT0107	Ramka 108
+PFT0106	Ramka 107
+PFT0105	Ramka 106
+PFT0170	Ramka 105
+PFT0104	Ramka 104
+PFT0168	Ramka 103
+PFT0103	Ramka 101
+PFT0167	Qopqoq 97
+PFT0039	ps 24-2 korpusi tagi
+PFT0038	ps 24-1 qopqoq
+PFT0102	Prazrachniy 72
+PFT0101	Prazrachniy 71
+PFT0071	Prazrachniy 22
+PFT0040	pr 24-2 korpusi tagi
+PFT0174	pr 24-1 qopqoq
+PFT0045	PLASMASSA TEGI-150
+PFT0043	PLASMASSA TEGI-100 Silver
+PFT0041	PLASMASSA TEGI-100 Platinum
+PFT0042	PLASMASSA TEGI-100 Gold
+PFT0197	PLASMASSA TEGI-100 black
+PFT0044	PLASMASSA TEGI-100
+PFT0171	Patron plast 66
+PFT0117	PARRAK-150
+PFT0049	PARRAK-100 Silver
+PFT0047	PARRAK-100 Platinum
+PFT0046	PARRAK-100 Gold
+PFT0198	PARRAK-100 black
+PFT0048	PARRAK-100
+PFT0013	P\L RAMKA 50 Dumaloq 72 W
+PFT0012	P\L RAMKA 40 Dumaloq 48 W
+PFT0011	P/L Ramka 50 To'rtburchak 72 W
+PFT0194	Nar 8 Tagi platinum
+PFT0195	Nar 8 Tagi Gold
+PFT0024	NAr 8 Tagi
+PFT0023	Nar 6 Tagi
+PFT0019	Nar 4 Tagi
+PFT0204	Nar 36 Tagi
+PFT0208	Nar 24 Tagi qora
+PFT0196	Nar 24 Tagi gold
+PFT0021	Nar 24 Tagi
+PFT0015	Nar 2 Tagi
+PFT0210	Nar 16 Tagi qora
+PFT0020	Nar 16 Tagi
+PFT0212	Nar 12 Tagi qora
+PFT0022	Nar 12 Tagi
+PFT0001	Messi churvaqa
+PFT0007	KRISHKA-150
+PFT0009	KRISHKA-100 Silver
+PFT0010	KRISHKA-100 Platinum
+PFT0008	KRISHKA-100 Gold
+PFT0199	KRISHKA-100 black
+PFT0037	KRISHKA-100
+PFT0181	Korpus 65
+PFT0057	Korpus 42
+PFT0176	knopka 76 o'ng
+PFT0180	knopka 76 chap
+PFT0163	Knopka 73
+PFT0100	Knopka 72
+PFT0099	Knopka 71
+PFT0073	Knopka 22
+PFT0075	Knopka 21
+PFT0065	Knopka 15
+PFT0062	Knopka 14
+PFT0098	Knopka 102
+PFT0097	Knopka 101
+PFT0096	Kiyim 72
+PFT0095	Kiyim 71
+PFT0074	Kiyim 22
+PFT0063	Kiyim 14
+PFT0166	Ichi 97
+PFT0094	Ichi 87
+PFT0093	Ichi 86
+PFT0092	Ichi 84
+PFT0091	Ichi 83
+PFT0090	Ichi 82
+PFT0089	Ichi 81
+PFT0088	Ichi 80
+PFT0087	Ichi 79
+PFT0158	Ichi 69
+PFT0078	Ichi 25
+PFT0082	Ichi 23
+PFT0131	Du57 korpus
+PFT0132	Du52 pele korpus
+PFT0051	Du 64 korpus
+PFT0050	Du 63 korpus
+PFT0052	Du 61 korpus usti stakan
+PFT0054	Du 61 korpus tagi
+PFT0129	Du 58 korpus
+PFT0130	Du 56 korpus
+PFT0148	Du 51 carlos korpus
+PFT0146	Du 50 messi korpus
+PFT0145	Du 47 korpus
+PFT0118	Du 20 Vilka korpus
+PFT0055	Drayver qopqoq
+PFT0056	Drayver korpus
+PFT0173	Churvaqa DLBI3
+PFT0084	Churvaqa 96
+PFT0086	Churvaqa 72
+PFT0085	Churvaqa 71
+PFT0070	Churvaqa 14
+PFT0147	Arzon Shisha plafonga tegishli
+PFT0142	Akril Panel Vnut 48 dumaloq
+PFT0137	Akril Panel Vnut 48  turburchak
+PFT0144	Akril Panel Nar 48  turburchak
+PFT0136	Akril Panel 36 turburchak
+PFT0143	Akril Panel 36 dumaloq
+PFT0134	Akril Panel 24 turburchak
+PFT0141	Akril Panel 24 dumaloq
+PFT0135	Akril Panel 18 turburchak
+PFT0140	Akril Panel 18 dumaloq
+PFT0139	Akril Panel 10 dumaloq
+PFT0138	Akril Panel 10  turburchak
+PFT0156	8-18 Driver korpus Veral YTM
+PFT0155	8-18 Driver korpus Dusel YTM
+PFT0154	48 Driver korpus Veral YTM
+PFT0153	48 Driver korpus Dusel YTM
+PFT0203	40-35 Ramka Silver
+PFT0200	40-35 Ramka Platinum
+PFT0201	40-35 Ramka Gold
+PFT0202	40-35 Ramka Black
+PFT0152	36 Driver korpus Veral YTM
+PFT0151	36 Driver korpus Dusel YTM
+PFT0150	24 Driver korpus Veral YTM
+PFT0149	24 Driver korpus Dusel YTM
+PFT0018	12 Ramka
