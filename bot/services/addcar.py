@@ -178,7 +178,7 @@ def create_excel_report(reports, file_path):
     ws.title = "Reports"
 
     # Define the header
-    headers = ['machine_num', 'product', 'termoplast_measure', 'waste_measure', 'defect_measure', 'material', 'quantity', 'default_value']
+    headers = ['Apparat', 'Maxsulot', 'Toza', 'Brak', 'Atxod', 'Siryo', 'Soni', 'Smena', 'Umumiy vazni', 'TOZA+BRAK']
     ws.append(headers)
 
     # Populate the sheet with data from the reports
@@ -187,13 +187,28 @@ def create_excel_report(reports, file_path):
             report.machine_num,
             report.product.name if report.product else '',  # Assuming Product has a name field
             report.termoplast_measure,
-            report.waste_measure,
             report.defect_measure,
+            report.waste_measure,
             report.material.name if report.material else '',  # Assuming Material has a name field
             report.quantity,
-            report.default_value
+            report.default_value,
+            report.termoplast_measure + report.defect_measure + report.waste_measure,
+            report.termoplast_measure + report.defect_measure
         ]
         ws.append(row)
+        
+        # Auto-size columns based on the length of the data in each column
+    for col in ws.columns:
+        max_length = 0
+        column = col[0].column  # Get the column number
+        for cell in col:
+            try:
+                if len(str(cell.value)) > max_length:
+                    max_length = len(str(cell.value))
+            except:
+                pass
+        adjusted_width = (max_length + 2)  # Add a little extra space
+        ws.column_dimensions[get_column_letter(column)].width = adjusted_width
 
     # Save the workbook to the specified file path
     wb.save(file_path)
