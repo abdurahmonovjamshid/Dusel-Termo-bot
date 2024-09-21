@@ -83,14 +83,16 @@ def create_machine_num_keyboard():
 
     return markup
 
-
-def get_paginated_products(page=0, page_size=6):
-    # Fetch products for the current page
+def get_paginated_products(page=0, page_size=10):
+    machine_linked = Product.objects.filter(machine__isnull=False).order_by('machine__number')
+    non_machine_linked = Product.objects.filter(machine__isnull=True).order_by('name')
+    combined_products = list(machine_linked) + list(non_machine_linked)
     start = page * page_size
     end = start + page_size
-    products = Product.objects.all()[start:end]
-    total_products = Product.objects.count()
-    return products, total_products
+    products_on_page = combined_products[start:end]
+    total_products = len(combined_products)
+    return products_on_page, total_products
+
 
 # Function to create an inline keyboard for paginated products
 def create_product_keyboard(page=0):
@@ -102,19 +104,14 @@ def create_product_keyboard(page=0):
     for product in products:
         row.append(InlineKeyboardButton(text=product.name, callback_data=f"product_{product.id}"))
         if len(row) == 2:
-            markup.add(*row)  # Add the current row to the keyboard
-            row = []  # Reset the row for the next set of buttons
-    
-    # Add any remaining buttons in the last row
+            markup.add(*row)
+            row = []
     if row:
         markup.add(*row)
-    
-    # Determine if pagination buttons are needed
     buttons = []
-    if page > 0:  # Add '<' button if not on the first page
+    if page > 0:
         buttons.append(InlineKeyboardButton(text="<", callback_data=f"page_{page - 1}"))
-    
-    # Add 'x' button as a placeholder for current page number
+
     buttons.append(InlineKeyboardButton(text=f"{page + 1}", callback_data="current_page"))
     
     if (page + 1) * 6 < total_products:  # Add '>' button if there are more products

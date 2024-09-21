@@ -10,9 +10,7 @@ import requests
 import telebot
 import telegraph
 from django.http import HttpResponse
-from django.utils import timezone
 from django.views.decorators.csrf import csrf_exempt
-from telebot.types import InlineKeyboardButton, InlineKeyboardMarkup, InputFile
 from datetime import timedelta
 from django.utils import timezone
 from conf.settings import ADMINS, CHANNEL_ID, HOST, TELEGRAM_BOT_TOKEN
@@ -22,8 +20,7 @@ from .buttons.inline import create_days_keyboard, create_product_keyboard, urlkb
 from .models import TgUser
 from .services.addcar import (add_product, add_material, add_measure, add_waste, add_defect, add_quantity, create_excel_report)
 from .services.steps import USER_STEP
-from telebot.types import ReplyKeyboardRemove
-from bot.models import Product, Material, Report
+from bot.models import Product, Material, Report, Machine
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN, threaded=False)
 from datetime import datetime
 
@@ -280,6 +277,10 @@ def handle_callback(call):
             selected_product = Product.objects.get(id=product_id)
             report.product = selected_product
             report.save()
+            
+            machine = Machine.objects.filter(number=report.machine_num).first()
+            machine.product = selected_product
+            machine.save()
             
             markup = create_material_keyboard_for_product(report.product)
             bot.edit_message_text(

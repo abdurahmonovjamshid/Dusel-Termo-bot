@@ -3,7 +3,7 @@ from django.contrib import admin
 from django.db.models import Count
 from django.utils.html import format_html
 
-from .models import Product, Material, TgUser, Report
+from .models import Product, Material, TgUser, Report, Machine
 
 
 @admin.register(Product)
@@ -17,10 +17,16 @@ class MaterialAdmin(admin.ModelAdmin):
     list_display = ('itemcode', 'name')
 
 
+@admin.register(Machine)
+class MachineAdmin(admin.ModelAdmin):
+    list_display = ('number', 'product')
+
+
 @admin.register(Report)
 class ReportAdmin(admin.ModelAdmin):
-    list_display = ('machine_num','product', 'termoplast_measure', 'waste_measure', 'defect_measure','material', 'quantity', 'default_value')
-    ordering = ('date','default_value')
+    list_display = ('machine_num', 'product', 'termoplast_measure', 'waste_measure',
+                    'defect_measure', 'material', 'quantity', 'default_value')
+    ordering = ('date', 'default_value')
 
 
 @admin.register(TgUser)
