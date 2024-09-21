@@ -187,13 +187,13 @@ def create_excel_report(reports, file_path):
             report.machine_num,
             report.product.name if report.product else '',  # Assuming Product has a name field
             report.termoplast_measure,
-            report.defect_measure,
             report.waste_measure,
+            report.defect_measure,
             report.material.name if report.material else '',  # Assuming Material has a name field
             report.quantity,
             report.default_value,
-            report.termoplast_measure + report.defect_measure + report.waste_measure,
-            report.termoplast_measure + report.defect_measure
+            report.termoplast_measure+ report.waste_measure + report.defect_measure,
+            report.termoplast_measure + report.waste_measure
         ]
         ws.append(row)
         
