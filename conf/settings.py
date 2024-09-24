@@ -20,6 +20,7 @@ env.read_env()
 
 TELEGRAM_BOT_TOKEN = env.str('TELEGRAM_BOT_TOKEN')
 ADMINS = env.list('ADMINS')
+ADMINS2 = env.list('ADMINS2')
 CHANNEL_ID = env.list('CHANNEL_ID')
 
 HOST = env.str('HOST')

@@ -13,7 +13,7 @@ from django.http import HttpResponse
 from django.views.decorators.csrf import csrf_exempt
 from datetime import timedelta
 from django.utils import timezone
-from conf.settings import ADMINS, CHANNEL_ID, HOST, TELEGRAM_BOT_TOKEN
+from conf.settings import ADMINS, CHANNEL_ID, HOST, TELEGRAM_BOT_TOKEN, ADMINS2
 
 from .buttons.default import cencel, main_button, get_back
 from .buttons.inline import create_days_keyboard, create_product_keyboard, urlkb, create_day_night_keyboard, create_days_info_kb, create_machine_num_keyboard, create_material_keyboard_for_product
@@ -116,7 +116,7 @@ def cm_start(message):
 def cm_start(message):
     try:
         user = TgUser.objects.get(telegram_id=message.from_user.id)
-        if str(user.telegram_id) in ADMINS:
+        if str(user.telegram_id) in ADMINS2:
             markup = create_days_info_kb()
             msg = bot.send_message(message.chat.id, "Choose a day:", reply_markup=markup)
             user.edit_msg = msg.id 
