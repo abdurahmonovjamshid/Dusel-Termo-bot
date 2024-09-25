@@ -28,7 +28,7 @@ from datetime import datetime
 class ReportAdmin(admin.ModelAdmin):
     list_display = ('machine_num', 'product', 'termoplast_measure', 'waste_measure',
                     'defect_measure', 'material', 'quantity', 'default_value', 'date')
-    ordering = ('-date', 'default_value')
+    ordering = ('-date', 'default_value', 'machine_num')
     list_filter = ['date']
     
     # Correct search field for ForeignKey 'product' and related field 'name'
