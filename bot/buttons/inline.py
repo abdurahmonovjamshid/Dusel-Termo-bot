@@ -229,3 +229,13 @@ def create_days_info_kb(year=None, month=None):
     ]
     markup.add(*navigation)
     return markup
+
+
+def create_confirmation_keyboard1(id):
+    markup = InlineKeyboardMarkup()
+    markup.row_width = 2
+    markup.add(
+        InlineKeyboardButton("Yes", callback_data=f"confirm1_yes_{id}"),
+        InlineKeyboardButton("No", callback_data="confirm1_no")
+    )
+    return markup

@@ -22,11 +22,37 @@ class MachineAdmin(admin.ModelAdmin):
     list_display = ('number', 'product')
 
 
+from datetime import datetime
+
 @admin.register(Report)
 class ReportAdmin(admin.ModelAdmin):
     list_display = ('machine_num', 'product', 'termoplast_measure', 'waste_measure',
-                    'defect_measure', 'material', 'quantity', 'default_value')
-    ordering = ('date', 'default_value')
+                    'defect_measure', 'material', 'quantity', 'default_value', 'date')
+    ordering = ('-date', 'default_value')
+    list_filter = ['date']
+    
+    # Correct search field for ForeignKey 'product' and related field 'name'
+    search_fields = ['product__name']  # Add more fields if needed
+
+    def get_search_results(self, request, queryset, search_term):
+        # Default search fields query
+        queryset, use_distinct = super().get_search_results(request, queryset, search_term)
+
+        # Date formats to try
+        date_formats = ['%d.%m.%Y', '%d/%m/%Y', '%d-%m-%Y']
+
+        # Try matching search_term with date formats
+        for date_format in date_formats:
+            try:
+                search_date = datetime.strptime(search_term, date_format).date()
+                queryset |= self.model.objects.filter(date=search_date)
+                break  # Stop once a valid date is found
+            except ValueError:
+                continue  # Continue to next format if not matched
+
+        return queryset, use_distinct
+
+
 
 
 @admin.register(TgUser)

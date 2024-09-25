@@ -16,7 +16,7 @@ from django.utils import timezone
 from conf.settings import ADMINS, CHANNEL_ID, HOST, TELEGRAM_BOT_TOKEN, ADMINS2
 
 from .buttons.default import cencel, main_button, get_back
-from .buttons.inline import create_days_keyboard, create_product_keyboard, urlkb, create_day_night_keyboard, create_days_info_kb, create_machine_num_keyboard, create_material_keyboard_for_product
+from .buttons.inline import create_days_keyboard, create_product_keyboard, urlkb, create_day_night_keyboard, create_days_info_kb, create_machine_num_keyboard, create_material_keyboard_for_product, create_confirmation_keyboard1
 from .models import TgUser
 from .services.addcar import (add_product, add_material, add_measure, add_waste, add_defect, add_quantity, create_excel_report)
 from .services.steps import USER_STEP
@@ -273,25 +273,47 @@ def handle_callback(call):
 
         # Handle product selection
         if call.data.startswith("product_"):
-            product_id = int(call.data.split("_")[1])  
+            product_id = int(call.data.split("_")[1])
             selected_product = Product.objects.get(id=product_id)
-            report.product = selected_product
-            report.save()
-            
-            machine = Machine.objects.filter(number=report.machine_num).first()
-            machine.product = selected_product
-            machine.save()
-            
-            markup = create_material_keyboard_for_product(report.product)
-            bot.edit_message_text(
-                chat_id=call.message.chat.id,
-                message_id=call.message.message_id,
-                text=f"Report\n{report.date} - {report.default_value}\n\n Machine Number: {report.machine_num}\n\nProduct: {report.product.name}\n\nChoose a material:",
-                reply_markup=markup,
-                parse_mode='html'
-            )
-            TgUser.objects.filter(telegram_id=call.from_user.id).update(step=USER_STEP['ADD_MATERIAL'])
-            
+
+            # Check for existing reports with the same date, default_value, and product but different machine_num
+            existing_reports = Report.objects.filter(
+                date=report.date,
+                default_value=report.default_value,
+                product=selected_product
+            ).exclude(machine_num=report.machine_num)
+
+            if existing_reports.exists():
+                # If such reports exist, ask the user for confirmation
+                bot.send_message(
+                    chat_id=call.message.chat.id,
+                    text=f"tanlangan ({report.date}) kun, smena - ({report.default_value}), "
+                         f"va product ({selected_product.name}) allaqachon boshqa aparatda ishlab chiqarilgan ({existing_reports.first().machine_num}). "
+                         f"Do you want to add this report with machine number {report.machine_num} too?",
+                    reply_markup=create_confirmation_keyboard1(selected_product.id)  # Create a yes/no confirmation keyboard
+                )
+                return  # Don't save the report until confirmed
+
+            # Proceed with saving the report if no duplicates are found
+            else:
+                report.product = selected_product
+                report.save()
+
+                machine = Machine.objects.filter(number=report.machine_num).first()
+                machine.product = selected_product
+                machine.save()
+
+                markup = create_material_keyboard_for_product(report.product)
+                bot.edit_message_text(
+                    chat_id=call.message.chat.id,
+                    message_id=call.message.message_id,
+                    text=f"Report\n{report.date} - {report.default_value}\n\n Machine Number: {report.machine_num}\n\n"
+                        f"Product: {report.product.name}\n\nChoose a material:",
+                    reply_markup=markup,
+                    parse_mode='html'
+                )
+                TgUser.objects.filter(telegram_id=call.from_user.id).update(step=USER_STEP['ADD_MATERIAL'])
+
         elif call.data.startswith("page_"):
             page = int(call.data.split("_")[1])
             markup = create_product_keyboard(page=page)
@@ -299,6 +321,48 @@ def handle_callback(call):
 
     except Exception as e:
         print(e)
+
+@bot.callback_query_handler(func=lambda call: call.data.startswith("confirm1_"))
+def handle_confirmation(call):
+    try:
+        user = TgUser.objects.get(telegram_id=call.from_user.id)
+        report = Report.objects.get(is_confirmed=False, user=user)
+
+        if call.data.startswith("confirm1_yes_"):
+            product_id = int(call.data.split("_")[2])
+            selected_product = Product.objects.get(id=product_id)
+            report.product = selected_product
+            report.save()
+
+            machine = Machine.objects.filter(number=report.machine_num).first()
+            machine.product = selected_product
+            machine.save()
+            
+            bot.delete_message(chat_id=call.message.chat.id, message_id=call.message.id)
+
+            # Notify the user that the report has been saved
+            markup = create_material_keyboard_for_product(report.product)
+            bot.edit_message_text(
+                chat_id=call.message.chat.id,
+                message_id=user.edit_msg,
+                text=f"Report\n{report.date} - {report.default_value}\n\n Machine Number: {report.machine_num}\n\n"
+                     f"Product: {report.product.name}\n\nChoose a material:",
+                reply_markup=markup,
+                parse_mode='html'
+            )
+            TgUser.objects.filter(telegram_id=call.from_user.id).update(step=USER_STEP['ADD_MATERIAL'])
+
+        elif call.data == "confirm1_no":
+            # Notify the user that the action was canceled
+            bot.edit_message_text(
+                chat_id=call.message.chat.id,
+                message_id=call.message.message_id,
+                text="The action has been canceled."
+            )
+
+    except Exception as e:
+        print(e)
+
 
             
 @bot.callback_query_handler(func=lambda call: call.data.startswith('material_') or call.data.startswith('m-page_'))
